@@ -1,0 +1,17 @@
+[
+  {
+    "username": "john_doe",
+    "password": "$2b$10$7l8/9nT6GfiIu6VqVh9Icu3QYFgQSmO3A6K6R.5Y3sPQyhb9.jyDi",
+    "role": "user"
+  },
+  {
+    "username": "jane_doe",
+    "password": "$2b$10$Eh.ix7QIY1i6hVq3l.HAe.JD6J4T2VLquzYgI5cZbPxiX6h8KQd4G",
+    "role": "user"
+  },
+  {
+    "username": "admin_user",
+    "password": "$2b$10$y8HcdY/ib1LVW3QQY.HzeOzHa9u7hF/mWfn6Ezdu.KRtl.yhW5dly",
+    "role": "admin"
+  }
+]
