@@ -392,248 +392,468 @@
     ],
     "__v": 0
   },
+
+  {
+    "productName": "Iphone 15 plus",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15plus-digitalmat-gallery-4-202309?wid=728&hei=666&fmt=png-alpha&.v=1693011173707",
+    "productCategory": "Smartphones",
+    "price": 1199.99,
+    "brandName": "Apple",
+    "Productdescription": "The iPhone 15 Pro Max is the ultimate flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro Max sets a new standard for mobile innovation.",
+    "id": "32"
+  },
+  {
+    "productName": "Iphone 15 Pro Max",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290312",
+    "productCategory": "Smartphones",
+    "price": 1199.99,
+    "brandName": "Apple",
+    "Productdescription": "The iPhone 15 Pro Max is the ultimate flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro Max sets a new standard for mobile innovation.",
+    "id": "32"
+  },
+  {
+    "productName": "Iphone 15",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15-digitalmat-gallery-4-202309?wid=728&hei=666&fmt=png-alpha&.v=1693011169045",
+    "productCategory": "Smartphones",
+    "price": 1099.99,
+    "brandName": "Apple",
+    "Productdescription": "Discover the future of mobile technology with the iPhone 15. Equipped with the A15 Bionic chip, this smartphone delivers unmatched performance and efficiency. Its Pro camera system captures stunning photos and videos with remarkable clarity and detail, while the Super Retina XDR OLED display provides an immersive viewing experience. With its sleek design and advanced features, the iPhone 15 is designed to impress.",
+    "id": "33"
+  },
   {
     "productName": "Iphone 15 Pro",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15pro-digitalmat-gallery-3-202309?wid=728&hei=666&fmt=png-alpha&.v=1693081542150",
+    "productCategory": "Smartphones",
+    "price": 999.99,
     "brandName": "Apple",
-    "Productdescription": "The iPhone 15 Pro and iPhone 15 Pro Max are smartphones designed, developed and marketed by Apple Inc. They are the 15th-generation flagships of the iPhone, succeeding the iPhone 14 Pro and iPhone 14 Pro Max, respectively. Apple CEO Tim Cook unveiled the devices alongside a lower-end model, the iPhone 15, on September 10, 2023, at the Steve Jobs Theater at Apple Park. Pre-orders began on September 13, 2023, and the phones went on sale on September 20. The iPhone 15 Pro features a Super Retina XDR OLED display, Apple's A15 Bionic chip, a triple-camera system, and improved water resistance, and is available in the colors of midnight green, space gray, silver, and gold. The iPhone 15 Pro Max features a larger display, a bigger battery, and a higher price than its smaller counterpart. The iPhone 15 Pro and Pro Max received positive reviews for their improved cameras, displays, and battery life, with some calling them the best camera phones on the market.",
-    "id": "1"
+    "Productdescription": "The iPhone 15 Pro is the latest flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro sets a new standard for mobile innovation.",
+    "id": "31"
+  },
+  {
+    "productName": "Iphone 14",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15-digitalmat-gallery-4-202309?wid=728&hei=666&fmt=png-alpha&.v=1693011169045",
+    "productCategory": "Smartphones",
+    "price": 999.99,
+    "brandName": "Apple",
+    "Productdescription": "Discover the future of mobile technology with the iPhone 14. Equipped with the A14 Bionic chip, this smartphone delivers unmatched performance and efficiency. Its Pro camera system captures stunning photos and videos with remarkable clarity and detail, while the Super Retina XDR OLED display provides an immersive viewing experience. With its sleek design and advanced features, the iPhone 14 is designed to impress.",
+    "id": "34"
+  },
+  {
+    "productName": "Iphone 14 Pro Max",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15promax-digitalmat-gallery-3-202309?wid=728&hei=666&fmt=png-alpha&.v=1710800172673",
+    "productCategory": "Smartphones",
+    "price": 999.99,
+    "brandName": "Apple",
+    "Productdescription": "Experience the power of innovation with the iPhone 14 Pro Max. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro Max redefines what a smartphone can do.",
+    "id": "34"
   },
   {
     "productName": "Iphone 14 Pro",
     "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
+    "productCategory": "Smartphones",
+    "price": 899.99,
     "brandName": "Apple",
-    "Productdescription": "The iPhone 14 Pro and iPhone 14 Pro Max are smartphones designed, developed and marketed by Apple Inc. They are the 14th-generation flagships of the iPhone, succeeding the iPhone 13 Pro and iPhone 13 Pro Max, respectively. Apple CEO Tim Cook unveiled the devices alongside a lower-end model, the iPhone 14, on September 10, 2022, at the Steve Jobs Theater at Apple Park. Pre-orders began on September 13, 2022, and the phones went on sale on September 20. The iPhone 14 Pro features a Super Retina XDR OLED display, Apple's A14 Bionic chip, a triple-camera system, and improved water resistance, and is available in the colors of midnight green, space gray, silver, and gold. The iPhone 14 Pro Max features a larger display, a bigger battery, and a higher price than its smaller counterpart. The iPhone 14 Pro and Pro Max received positive reviews for their improved cameras, displays, and battery life, with some calling them the best camera phones on the market."
+    "Productdescription": "Experience the power of innovation with the iPhone 14 Pro. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro redefines what a smartphone can do.",
+    "id": "30"
+  },
+  {
+    "productName": "Iphone 13",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644988765122",
+    "productCategory": "Smartphones",
+    "price": 799.99,
+    "brandName": "Apple",
+    "Productdescription": "Elevate your mobile experience with the iPhone 13. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its dual-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 is the ultimate expression of innovation.",
+    "id": "28"
+  },
+  {
+    "productName": "Iphone 13 Pro Max",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644988765122",
+    "productCategory": "Smartphones",
+    "price": 899.99,
+    "brandName": "Apple",
+    "Productdescription": "Elevate your mobile experience with the iPhone 13 Pro Max. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its triple-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 Pro Max is the ultimate expression of innovation.",
+    "id": "35"
   },
   {
     "productName": "Iphone 13 Pro",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644988765122",
+    "productCategory": "Smartphones",
+    "price": 799.99,
     "brandName": "Apple",
-    "Productdescription": "The iPhone 13 Pro and iPhone 13 Pro Max are smartphones designed, developed and marketed by Apple Inc. They are the 13th-generation flagships of the iPhone, succeeding the iPhone 12 Pro and iPhone 12 Pro Max, respectively. Apple CEO Tim Cook unveiled the devices alongside a lower-end model, the iPhone 13, on September 10, 2021, at the Steve Jobs Theater at Apple Park. Pre-orders began on September 13, 2021, and the phones went on sale on September 20. The iPhone 13 Pro features a Super Retina XDR OLED display, Apple's A13 Bionic chip, a triple-camera system, and improved water resistance, and is available in the colors of midnight green, space gray, silver, and gold. The iPhone 13 Pro Max features a larger display, a bigger battery, and a higher price than its smaller counterpart. The iPhone 13 Pro and Pro Max received positive reviews for their improved cameras, displays, and battery life, with some calling them the best camera phones on the market."
+    "Productdescription": "Elevate your mobile experience with the iPhone 13 Pro. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its triple-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 Pro is the ultimate expression of innovation.",
+    "id": "29"
+  },
+  {
+    "productName": "Iphone 12",
+    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
+    "productCategory": "Smartphones",
+    "price": 699.99,
+    "brandName": "Apple",
+    "Productdescription": "Introducing the iPhone 12, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its dual-camera system captures stunning photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 is designed to impress.",
+    "id": "26"
+  },
+  {
+    "productName": "Iphone 12 Mini",
+    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
+    "productCategory": "Smartphones",
+    "price": 599.99,
+    "brandName": "Apple",
+    "Productdescription": "Introducing the iPhone 12 Mini, the epitome of performance and style in a compact form factor. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its dual-camera system captures stunning photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 Mini is designed to impress.",
+    "id": "27"
+  },
+  {
+    "productName": "Iphone 12 Pro Max",
+    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
+    "productCategory": "Smartphones",
+    "price": 799.99,
+    "brandName": "Apple",
+    "Productdescription": "Introducing the iPhone 12 Pro Max, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its Pro camera system captures breathtaking photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 Pro Max is designed to impress.",
+    "id": "36"
   },
   {
     "productName": "Iphone 12 Pro",
     "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
+    "productCategory": "Smartphones",
+    "price": 699.99,
     "brandName": "Apple",
-    "Productdescription": "The iPhone 12 Pro and iPhone 12 Pro Max are smartphones designed, developed and marketed by Apple Inc. They are the 12th-generation flagships of the iPhone, succeeding the iPhone 11 Pro and iPhone 11 Pro Max, respectively. Apple CEO Tim Cook unveiled the devices alongside a lower-end model, the iPhone 12, on October 13, 2020, at the Steve Jobs Theater at Apple Park. Pre-orders began on October 16, 2020, and the phones went on sale on October 23. The iPhone 12 Pro features a Super Retina XDR OLED display, Apple's A14 Bionic chip, a triple-camera system, and improved water resistance, and is available in the colors of midnight green, space gray, silver, and gold. The iPhone 12 Pro Max features a larger display, a bigger battery, and a higher price than its smaller counterpart. The iPhone 12 Pro and Pro Max received positive reviews for their improved cameras, displays, and battery life, with some calling them the best camera phones on the market."
+    "Productdescription": "Introducing the iPhone 12 Pro, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its Pro camera system captures breathtaking photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone "
+  },
+  {
+    "productName": "Iphone 11 Pro Max",
+    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
+    "productCategory": "Smartphones",
+    "price": 699.99,
+    "brandName": "Apple",
+    "Productdescription": "Experience the power of innovation with the iPhone 11 Pro Max. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro Max redefines what a smartphone can do.",
+    "id": "38"
   },
   {
     "productName": "Iphone 11 Pro",
     "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
+    "productCategory": "Smartphones",
+    "price": 599.99,
     "brandName": "Apple",
-    "Productdescription": "The iPhone 11 Pro and iPhone 11 Pro Max are smartphones designed, developed and marketed by Apple Inc. They are the 13th-generation flagships of the iPhone, succeeding the iPhone XS and iPhone XS Max, respectively. Apple CEO Tim Cook unveiled the devices alongside a lower-end model, the iPhone 11, on September 10, 2019, at the Steve Jobs Theater at Apple Park. Pre-orders began on September 13, 2019, and the phones went on sale on September 20. The iPhone 11 Pro features a Super Retina XDR OLED display, Apple's A13 Bionic chip, a triple-camera system, and improved water resistance, and is available in the colors of midnight green, space gray, silver, and gold. The iPhone 11 Pro Max features a larger display, a bigger battery, and a higher price than its smaller counterpart. The iPhone 11 Pro and Pro Max received positive reviews for their improved cameras, displays, and battery life, with some calling them the best camera phones on the market."
+    "Productdescription": "Experience the power of innovation with the iPhone 11 Pro. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro redefines what a smartphone can do.",
+    "id": "37"
   },
   {
-    "productName": "Iphone X Pro",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
+    "productName": "Iphone SE (2020)",
+    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphonese-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644987579761",
+    "productCategory": "Smartphones",
+    "price": 399.99,
     "brandName": "Apple",
-    "Productdescription": "The iPhone X Pro and iPhone X Pro Max are smartphones designed, developed and marketed by Apple Inc. They are the 11th-generation flagships of the iPhone, succeeding the iPhone 8 and iPhone 8 Plus, respectively. Apple CEO Tim Cook unveiled the devices alongside a lower-end model, the iPhone X, on September 12, 2017, at the Steve Jobs Theater at Apple Park. Pre-orders began on September 15, 2017, and the phones went on sale on September 22. The iPhone X Pro features a Super Retina XDR OLED display, Apple's A11 Bionic chip, a triple-camera system, and improved water resistance, and is available in the colors of midnight green, space gray, silver, and gold. The iPhone X Pro Max features a larger display, a bigger battery, and a higher price than its smaller counterpart. The iPhone X Pro and Pro Max received positive reviews for their improved cameras, displays, and battery life, with some calling them the best camera phones on the market."
+    "Productdescription": "Get the power of the iPhone in a compact and affordable package with the iPhone SE (2020). Featuring the A13 Bionic chip, this smartphone delivers blazing-fast performance and efficiency. Its advanced camera system captures stunning photos and videos, while the Retina HD display offers an immersive viewing experience. With its sleek design and advanced features, the iPhone SE (2020) is the perfect choice for those who want the best of Apple in a smaller form factor.",
+    "id": "39"
   },
+
   {
     "productName": "Apple Watch Ultra 2",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productImage": "https://www.apple.com/v/watch/bl/images/overview/select/product_u2__ebztafh9rvau_xlarge_2x.png",
+    "productCategory": "Smartwatches",
+    "price": 799.99,
+    "brandName": "Apple",
+    "Productdescription": "Enhance your active lifestyle with the Apple Watch Ultra 2. Featuring a durable titanium case and a sapphire crystal display, this smartwatch is built to withstand the rigors of outdoor adventures. Its advanced health monitoring sensors track your heart rate, activity levels, and more, while GPS and cellular capabilities keep you connected wherever you go. With its sleek design and innovative features, the Apple Watch Ultra 2 is the ultimate companion for fitness enthusiasts and outdoor enthusiasts alike.",
+    "id": "25"
   },
   {
-    "productName": "Apple Watch Ultra ",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Apple Watch Ultra",
+    "productImage": "https://m.media-amazon.com/images/I/91z5KuonXrL._AC_UF1000,1000_QL80_.jpg",
+    "productCategory": "Smartwatches",
+    "price": 699.99,
+    "brandName": "Apple",
+    "Productdescription": "Stay connected and motivated with the Apple Watch Ultra. Featuring a lightweight aluminum case and a vibrant Retina display, this smartwatch is designed for all-day wear. Its advanced health monitoring features help you stay on top of your fitness goals, while built-in GPS and cellular capabilities keep you connected on the go. With its sleek design and intuitive interface, the Apple Watch Ultra is the perfect companion for an active lifestyle.",
+    "id": "24"
   },
   {
     "productName": "Apple Watch SE",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productImage": "https://www.apple.com/v/watch/bl/images/overview/select/product_se__frx4hb13romm_xlarge_2x.png",
+    "productCategory": "Smartwatches",
+    "price": 499.99,
+    "brandName": "Apple",
+    "Productdescription": "Get the best of both worlds with the Apple Watch SE. Combining the essential features of a smartwatch with the affordability of a budget-friendly device, the Apple Watch SE offers an unbeatable value.Its Retina display and advanced health monitoring sensors keep you connected and informed throughout the day, while its sleek design and intuitive interface make it easy to use. Whether you're tracking your fitness goals or staying in touch with loved ones, the Apple Watch SE has you covered.",
+    "id": "23"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Apple Watch Series 7",
+    "productImage": "https://example.com/apple-watch-series-7.jpg",
+    "productCategory": "Smartwatches",
+    "price": 399.99,
+    "brandName": "Apple",
+    "Productdescription": "The Apple Watch Series 7 is the latest smartwatch from Apple. It features a stunning Always-On Retina display, a faster dual-core processor, and advanced health and fitness tracking features. With its sleek design and customizable bands, the Series 7 is perfect for staying connected and active.",
+    "id": "20"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Apple Watch Series 8",
+    "productImage": "https://example.com/apple-watch-series-8.jpg",
+    "productCategory": "Smartwatches",
+    "price": 449.99,
+    "brandName": "Apple",
+    "Productdescription": "The Apple Watch Series 8 is the newest smartwatch from Apple. It features a larger and brighter Always-On Retina display, a more powerful S8 chip, and advanced health and fitness tracking features. With its sleek design and innovative features, the Series 8 sets a new standard for smartwatches.",
+    "id": "21"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Apple Watch Series 9",
+    "productImage": "https://www.apple.com/v/watch/bl/images/overview/select/product_s9__b8uw2qgcgw1y_xlarge_2x.png",
+    "productCategory": "Smartwatches",
+    "price": 399.99,
+    "brandName": "Apple",
+    "Productdescription": "The Apple Watch Series 7 is the latest smartwatch from Apple. It features a stunning Always-On Retina display, a faster dual-core processor, and advanced health and fitness tracking features. With its sleek design and customizable bands, the Series 7 is perfect for staying connected and active.",
+    "id": "22"
   },
 
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Mi Watch 5",
+    "productImage": "https://example.com/mi-watch-5.jpg",
+    "productCategory": "Smartwatches",
+    "price": 199.99,
+    "brandName": "Xiaomi",
+    "Productdescription": "The Mi Watch 5 is a smartwatch developed by Xiaomi. It features a sleek design, a vibrant AMOLED display, and a wide range of health and fitness tracking features. With its long battery life and advanced sensors, the Mi Watch 5 is perfect for everyday use.",
+    "id": "1"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "MacBook Pro 2023",
+    "productImage": "https://example.com/macbook-pro-2023.jpg",
+    "productCategory": "Laptops",
+    "price": 2399.99,
+    "brandName": "Apple",
+    "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
+    "id": "2"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "iMac Pro",
+    "productImage": "https://example.com/imac-pro.jpg",
+    "productCategory": "Desktops",
+    "price": 2999.99,
+    "brandName": "Apple",
+    "Productdescription": "The iMac Pro is a powerful all-in-one desktop computer from Apple. It features a stunning 27-inch Retina 5K display, a powerful Intel Xeon processor, and advanced graphics options. With its sleek design and workstation-class performance, the iMac Pro is perfect for professionals and creative users.",
+    "id": "3"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Mi 12",
+    "productImage": "https://example.com/mi-12.jpg",
+    "productCategory": "Smartphones",
+    "price": 899.99,
+    "brandName": "Xiaomi",
+    "Productdescription": "The Mi 12 is a flagship smartphone from Xiaomi. It features a stunning display, a powerful Snapdragon processor, and a versatile camera system. With its sleek design and long battery life, the Mi 12 offers a premium smartphone experience at an affordable price.",
+    "id": "4"
   },
 
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "iPad Air 5",
+    "productImage": "https://example.com/ipad-air-5.jpg",
+    "productCategory": "Tablets",
+    "price": 699.99,
+    "brandName": "Apple",
+    "Productdescription": "The iPad Air 5 is the latest mid-range tablet from Apple. It features a stunning Liquid Retina display, a powerful A16 chip, and support for the Apple Pencil 3. With its sleek design and affordable price, the iPad Air 5 is perfect for students and casual users.",
+    "id": "6"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Mi Laptop Pro",
+    "productImage": "https://example.com/mi-laptop-pro.jpg",
+    "productCategory": "Laptops",
+    "price": 1299.99,
+    "brandName": "Xiaomi",
+    "Productdescription": "The Mi Laptop Pro is a high-performance laptop from Xiaomi. It features a stunning display, a powerful Ryzen processor, and a sleek aluminum design. With its long battery life and affordable price, the Mi Laptop Pro is perfect for professionals and students alike.",
+    "id": "7"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
+    "productName": "Mi Watch Lite",
+    "productImage": "https://example.com/mi-watch-lite.jpg",
+    "productCategory": "Smartwatches",
     "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
-  },
-  {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "brandName": "Xiaomi",
+    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "id": "8"
   },
 
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Samsung Galaxy S22 Ultra",
+    "productImage": "https://example.com/samsung-galaxy-s22-ultra.jpg",
+    "productCategory": "Smartphones",
+    "price": 1299.99,
+    "brandName": "Samsung",
+    "Productdescription": "The Samsung Galaxy S22 Ultra is the latest flagship smartphone from Samsung. It features a stunning Dynamic AMOLED display, a powerful Exynos processor, and an advanced camera system. With its sleek design and advanced features, the Galaxy S22 Ultra is the ultimate smartphone for enthusiasts and power users.",
+    "id": "9"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Sony Xperia Pro III",
+    "productImage": "https://example.com/sony-xperia-pro-iii.jpg",
+    "productCategory": "Smartphones",
+    "price": 1499.99,
+    "brandName": "Sony",
+    "Productdescription": "The Sony Xperia Pro III is a premium smartphone from Sony. It features a stunning 4K OLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and professional-grade features, the Xperia Pro III is perfect for photographers, videographers, and content creators.",
+    "id": "10"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Dell XPS 17",
+    "productImage": "https://example.com/dell-xps-17.jpg",
+    "productCategory": "Laptops",
+    "price": 2499.99,
+    "brandName": "Dell",
+    "Productdescription": "The Dell XPS 17 is a high-performance laptop from Dell. It features a stunning 17-inch 4K display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the XPS 17 is perfect for professionals and content creators.",
+    "id": "11"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "LG UltraFine 5K Display",
+    "productImage": "https://example.com/lg-ultrafine-5k-display.jpg",
+    "productCategory": "Monitors",
+    "price": 1299.99,
+    "brandName": "LG",
+    "Productdescription": "The LG UltraFine 5K Display is a high-resolution monitor from LG. It features a stunning 5K resolution, a wide color gamut, and Thunderbolt 3 connectivity. With its sleek design and professional-grade features, the UltraFine 5K Display is perfect for professionals and creative users.",
+    "id": "12"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "Huawei MateBook X Pro",
+    "productImage": "https://example.com/huawei-matebook-x-pro.jpg",
+    "productCategory": "Laptops",
+    "price": 1499.99,
+    "brandName": "Huawei",
+    "Productdescription": "The Huawei MateBook X Pro is a premium laptop from Huawei. It features a stunning 3K display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the MateBook X Pro is perfect for professionals and power users.",
+    "id": "13"
   },
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple"
+    "productName": "OnePlus 10 Pro",
+    "productImage": "https://example.com/oneplus-10-pro.jpg",
+    "productCategory": "Smartphones",
+    "price": 999.99,
+    "brandName": "OnePlus",
+    "Productdescription": "The OnePlus 10 Pro is a flagship smartphone from OnePlus. It features a stunning Fluid AMOLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and premium features, the OnePlus 10 Pro offers a premium smartphone experience.",
+    "id": "14"
+  },
+  {
+    "productName": "Microsoft Surface Laptop Studio",
+    "productImage": "https://example.com/microsoft-surface-laptop-studio.jpg",
+    "productCategory": "Laptops",
+    "price": 1799.99,
+    "brandName": "Microsoft",
+    "Productdescription": "The Microsoft Surface Laptop Studio is a versatile laptop from Microsoft. It features a stunning PixelSense display, a powerful Intel Core processor, and a unique 2-in-1 design that allows it to be used as a laptop or a tablet. With its sleek design and professional-grade features, the Surface Laptop Studio is perfect for professionals and creative users.",
+    "id": "15"
+  },
+  {
+    "productName": "Lenovo ThinkPad X1 Carbon Gen 9",
+    "productImage": "https://example.com/lenovo-thinkpad-x1-carbon-gen-9.jpg",
+    "productCategory": "Laptops",
+    "price": 1699.99,
+    "brandName": "Lenovo",
+    "Productdescription": "The Lenovo ThinkPad X1 Carbon Gen 9 is a premium laptop from Lenovo. It features a stunning 4K display, a powerful Intel Core processor, and a sleek carbon fiber design. With its long battery life and professional-grade features, the ThinkPad X1 Carbon Gen 9 is perfect for professionals and business users.",
+    "id": "16"
+  },
+  {
+    "productName": "Google Pixel 6 Pro",
+    "productImage": "https://example.com/google-pixel-6-pro.jpg",
+    "productCategory": "Smartphones",
+    "price": 899.99,
+    "brandName": "Google",
+    "Productdescription": "The Google Pixel 6 Pro is a flagship smartphone from Google. It features a stunning OLED display, a powerful Tensor processor, and an advanced camera system with enhanced computational photography capabilities. With its sleek design and stock Android experience, the Pixel 6 Pro offers a premium smartphone experience.",
+    "id": "17"
+  },
+  {
+    "productName": "ASUS ROG Zephyrus G14",
+    "productImage": "https://example.com/asus-rog-zephyrus-g14.jpg",
+    "productCategory": "Laptops",
+    "price": 1499.99,
+    "brandName": "ASUS",
+    "Productdescription": "The ASUS ROG Zephyrus G14 is a high-performance gaming laptop from ASUS. It features a stunning 14-inch display, a powerful AMD Ryzen processor, and NVIDIA GeForce RTX graphics. With its sleek design and gaming-focused features, the ROG Zephyrus G14 is perfect for gamers and enthusiasts.",
+    "id": "18"
+  },
+  {
+    "productName": "Microsoft Surface Laptop 5",
+    "productImage": "https://example.com/microsoft-surface-laptop-5.jpg",
+    "productCategory": "Laptops",
+    "price": 1499.99,
+    "brandName": "Microsoft",
+    "Productdescription": "The Microsoft Surface Laptop 5 is a premium laptop from Microsoft. It features a stunning PixelSense display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the Surface Laptop 5 is perfect for professionals and students alike.",
+    "id": "15"
+  },
+  {
+    "productName": "Lenovo ThinkPad X1 Carbon",
+    "productImage": "https://example.com/lenovo-thinkpad-x1-carbon.jpg",
+    "productCategory": "Laptops",
+    "price": 1799.99,
+    "brandName": "Lenovo",
+    "Productdescription": "The Lenovo ThinkPad X1 Carbon is a high-performance laptop from Lenovo. It features a stunning 4K display, a powerful Intel Core processor, and a durable carbon fiber design. With its long battery life and business-grade features, the ThinkPad X1 Carbon is perfect for professionals and business users.",
+    "id": "16"
+  },
+  {
+    "productName": "Google Pixel 7 Pro",
+    "productImage": "https://example.com/google-pixel-7-pro.jpg",
+    "productCategory": "Smartphones",
+    "price": 999.99,
+    "brandName": "Google",
+    "Productdescription": "The Google Pixel 7 Pro is a flagship smartphone from Google. It features a stunning OLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and pure Android experience, the Pixel 7 Pro offers a premium smartphone experience.",
+    "id": "17"
+  },
+  {
+    "productName": "Asus ZenWatch 4",
+    "productImage": "https://example.com/asus-zenwatch-4.jpg",
+    "productCategory": "Smartwatches",
+    "price": 299.99,
+    "brandName": "Asus",
+    "Productdescription": "The Asus ZenWatch 4 is a premium smartwatch from Asus. It features a stunning AMOLED display, a wide range of health and fitness tracking features, and a sleek design. With its long battery life and advanced features, the ZenWatch 4 is perfect for fitness enthusiasts and tech-savvy users.",
+    "id": "18"
+  },
+  {
+    "productName": "HP Spectre x360",
+    "productImage": "https://example.com/hp-spectre-x360.jpg",
+    "productCategory": "Laptops",
+    "price": 1899.99,
+    "brandName": "HP",
+    "Productdescription": "The HP Spectre x360 is a premium 2-in-1 laptop from HP. It features a stunning 4K OLED display, a powerful Intel Core processor, and a versatile design. With its long battery life and convertible form factor, the Spectre x360 is perfect for professionals and creative users.",
+    "id": "19"
+  },
+
+  {
+    "productName": "MacBook Pro 16",
+    "productImage": "https://example.com/macbook_pro_16.jpg",
+    "productCategory": "Laptops",
+    "price": 2399.99,
+    "brandName": "Apple",
+    "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
+    "id": "37"
+  },
+  {
+    "productName": "ThinkPad X1 Carbon",
+    "productImage": "https://example.com/thinkpad_x1_carbon.jpg",
+    "productCategory": "Laptops",
+    "price": 1599.99,
+    "brandName": "Lenovo",
+    "Productdescription": "Das ThinkPad X1 Carbon ist ein erstklassiges Business-Notebook, das Leistung, Mobilität und Sicherheit vereint. Mit einem schlanken und leichten Design, einem leistungsstarken Intel Core i7 Prozessor und einer langlebigen Akkulaufzeit ist es ideal für professionelle Anwender unterwegs. Das ThinkPad X1 Carbon bietet außerdem erstklassige Sicherheitsfunktionen wie Gesichtserkennung und Fingerabdruckleser für zusätzlichen Schutz Ihrer Daten.",
+    "id": "38"
+  },
+  {
+    "productName": "Dell XPS 15",
+    "productImage": "https://example.com/dell_xps_15.jpg",
+    "productCategory": "Laptops",
+    "price": 1999.99,
+    "brandName": "Dell",
+    "Productdescription": "Das Dell XPS 15 ist ein leistungsstarkes und elegantes Notebook, das für anspruchsvolle Anwendungen konzipiert ist. Mit einem beeindruckenden InfinityEdge-Display, einem Intel Core i9 Prozessor und einer dedizierten NVIDIA Grafikkarte bietet es erstklassige Leistung für Kreativität, Produktivität und Unterhaltung. Das XPS 15 verfügt außerdem über innovative Funktionen wie ein hochauflösendes Touchscreen-Display und eine präzise Tastatur für ein herausragendes Benutzererlebnis.",
+    "id": "39"
+  },
+  {
+    "productName": "iMac 27",
+    "productImage": "https://example.com/imac_27.jpg",
+    "productCategory": "Desktops",
+    "price": 2299.99,
+    "brandName": "Apple",
+    "Productdescription": "Der iMac 27 ist ein leistungsstarker All-in-One-Computer, der Geschwindigkeit, Leistung und Eleganz vereint. Mit einem beeindruckenden 27-Zoll-Retina-5K-Display, einem Intel Core i9 Prozessor und einer dedizierten AMD Radeon Pro Grafikkarte bietet er eine erstklassige Leistung für anspruchsvolle Aufgaben wie Video- und Fotobearbeitung, Spiele und mehr. Der iMac 27 ist auch mit innovativen Funktionen wie FaceTime HD-Kamera, Stereolautsprechern und Thunderbolt 3 Anschlüssen ausgestattet.",
+    "id": "40"
+  },
+  {
+    "productName": "Lenovo ThinkPad X1 Yoga",
+    "productImage": "https://example.com/thinkpad_x1_yoga.jpg",
+    "productCategory": "Laptops",
+    "price": 1799.99,
+    "brandName": "Lenovo",
+    "Productdescription": "Das Lenovo ThinkPad X1 Yoga ist ein vielseitiges 2-in-1-Notebook, das Mobilität und Leistung in einem eleganten Design vereint. Mit einem drehbaren 14-Zoll-Touchscreen-Display, einem Intel Core i7 Prozessor und einer langlebigen Akkulaufzeit ist es ideal für professionelle Anwender, die unterwegs produktiv sein müssen. Das ThinkPad X1 Yoga bietet außerdem erstklassige Sicherheitsfunktionen wie eine integrierte Webcam-Abdeckung und einen Fingerabdruckleser für zusätzlichen Schutz Ihrer Privatsphäre.",
+    "id": "41"
+  },
+  {
+    "productName": "Dell Precision 7550",
+    "productImage": "https://example.com/dell_precision_7550.jpg",
+    "productCategory": "Laptops",
+    "price": 2799.99,
+    "brandName": "Dell",
+    "Productdescription": "Der Dell Precision 7550 ist ein leistungsstarkes mobiles Workstation-Notebook, das für anspruchsvolle professionelle Anwendungen konzipiert ist. Mit einem beeindruckenden 15,6-Zoll-UHD-Display, einem Intel Core i9 Prozessor und einer dedizierten NVIDIA Quadro Grafikkarte bietet es erstklassige Leistung für CAD, 3D-Modellierung, Videobearbeitung und mehr. Der Precision 7550 verfügt außerdem über innovative Funktionen wie ein präzises Touchpad, eine Tastatur mit Hintergrundbeleuchtung und eine Vielzahl von Anschlüssen für maximale Konnektivität.",
+    "id": "42"
   }
 ]
