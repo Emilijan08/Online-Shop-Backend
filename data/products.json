@@ -680,6 +680,7 @@
       }
     ]
   },
+  {
    "productName": "Iphone 14 plus",
     "productImage": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-midnight?wid=5120&hei=2880&fmt=webp&qlt=70&.v=bjlYUjk1NXN2Uy9CTWFMaXBneUF0bEthL1VsNXgveGUwQ1JqNzA0ZHArazIrU1NEYjh6WWVrVzhHM2F3a1dJUFpGQnBBWVp4a3ZSd0Y4NzlDUVE4dUJUU08xVXZOQlVmeWYva2RCcG9vcVV1ZjlxTlY3MytTR2REMjloelN3ZGs4WTl0a1kzbVY5SDFMTVoxSUZsMU9nPT0=&traceId=1",
     "productCategory": "Smartphones",
@@ -1262,8 +1263,35 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "id": "8"
   },
      {
-    "productName": "Redmi Note 13",
-    "productImage": "https://i02.appmifile.com/994_operatorx_operatorx_opx/11/01/2024/72a71b312950178179eeb71425ef8def.png?thumb=1&w=1000&f=webp&q=85",
+    "productName": "Xiaomi Smart Band 7 NFC",
+    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1680260233.57461112.png",
+    "productCategory": "Smartwatches",
+    "price": 79.99,
+    "brandName": "Xiaomi",
+    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "id": "8"
+  },
+       {
+    "productName": "Redmi Watch 3",
+    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1679574223.38469571.png",
+    "productCategory": "Smartwatches",
+    "price": 79.99,
+    "brandName": "Xiaomi",
+    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "id": "8"
+  },
+       {
+    "productName": "Xiaomi Watch S1 Pro",
+    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677429733.05265062.png",
+    "productCategory": "Smartwatches",
+    "price": 79.99,
+    "brandName": "Xiaomi",
+    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "id": "8"
+  },
+       {
+    "productName": "Redmi Smart Band 2",
+    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1674993740.12319164.png",
     "productCategory": "Smartwatches",
     "price": 79.99,
     "brandName": "Xiaomi",
