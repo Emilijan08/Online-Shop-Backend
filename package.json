@@ -5,7 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "bun --hot run index.ts",
-    "start": "bun run index.ts"
+    "start": "bun run index.ts",
+    "schema:drop": "bun run ./scripts/schema-drop.ts",
+    "seed": "bun run ./scripts/seed.ts",
+    "database:setup": "npm run schema:drop && npm run seed"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
