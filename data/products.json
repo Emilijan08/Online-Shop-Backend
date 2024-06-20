@@ -392,7 +392,6 @@
     ],
     "__v": 0
   },
-
   {
     "productName": "Iphone 15 plus",
     "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15plus-digitalmat-gallery-4-202309?wid=728&hei=666&fmt=png-alpha&.v=1693011173707",
@@ -401,7 +400,7 @@
     "brandName": "Apple",
     "Productdescription": "The iPhone 15 Pro Max is the ultimate flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro Max sets a new standard for mobile innovation.",
     "id": "32",
-  "comments": [
+    "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
@@ -680,7 +679,8 @@
       }
     ]
   },
-   "productName": "Iphone 14 plus",
+  {
+    "productName": "Iphone 14 plus",
     "productImage": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-midnight?wid=5120&hei=2880&fmt=webp&qlt=70&.v=bjlYUjk1NXN2Uy9CTWFMaXBneUF0bEthL1VsNXgveGUwQ1JqNzA0ZHArazIrU1NEYjh6WWVrVzhHM2F3a1dJUFpGQnBBWVp4a3ZSd0Y4NzlDUVE4dUJUU08xVXZOQlVmeWYva2RCcG9vcVV1ZjlxTlY3MytTR2REMjloelN3ZGs4WTl0a1kzbVY5SDFMTVoxSUZsMU9nPT0=&traceId=1",
     "productCategory": "Smartphones",
     "price": 899.99,
@@ -800,7 +800,7 @@
     "Productdescription": "Experience the power of innovation with the iPhone 11 Pro. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro redefines what a smartphone can do.",
     "id": "37"
   },
-   {
+  {
     "productName": "Iphone 11",
     "productImage": "https://www.digitec.ch/im/Files/2/8/8/1/4/4/3/0/iPhone_11_B_2.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
     "productCategory": "Smartphones",
@@ -818,7 +818,6 @@
     "Productdescription": "Get the power of the iPhone in a compact and affordable package with the iPhone SE (2020). Featuring the A13 Bionic chip, this smartphone delivers blazing-fast performance and efficiency. Its advanced camera system captures stunning photos and videos, while the Retina HD display offers an immersive viewing experience. With its sleek design and advanced features, the iPhone SE (2020) is the perfect choice for those who want the best of Apple in a smaller form factor.",
     "id": "39"
   },
-
   {
     "productName": "Apple Watch Ultra 2",
     "productImage": "https://www.apple.com/v/watch/bl/images/overview/select/product_u2__ebztafh9rvau_xlarge_2x.png",
@@ -873,7 +872,6 @@
     "Productdescription": "Brighter Always-On Retina display with a durable, crack-resistant front crystal Get deep insights into your physical and mental health including heart rate, Footnote 1 mood, and more With advanced workout metrics and views The all-new S9 SiP powers a magical new way to use your watch without touching the screen Innovative safety features including Emergency SOS,  footnote  2 Fall Detection, and Crash Detection",
     "id": "22"
   },
-
   {
     "productName": "Mi Watch 5",
     "productImage": "https://example.com/mi-watch-5.jpg",
@@ -901,7 +899,7 @@
     "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
     "id": "2"
   },
-   {
+  {
     "productName": "MacBook Air – 2023",
     "productImage": "https://static.digitecgalaxus.ch/productimages/3/8/0/0/4/7/3/1/0/4/0/9/2/5/9/7/1/0/2/877e3916-62fc-4475-bb32-10d65f291fdf.jpg",
     "productCategory": "Laptops",
@@ -910,7 +908,7 @@
     "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
     "id": "2"
   },
-   {
+  {
     "productName": "MacBook Pro – 2022",
     "productImage": "https://www.digitec.ch/im/Files/7/1/2/6/9/3/8/3/MacBook_Pro_13_in_Silver_PDP_Image_Position-1__WWEN.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
     "productCategory": "Laptops",
@@ -919,7 +917,7 @@
     "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
     "id": "2"
   },
-   {
+  {
     "productName": "MacBook Air – 2022",
     "productImage": "https://www.digitec.ch/im/Files/6/4/3/1/7/4/8/4/midnight.JPG?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
     "productCategory": "Laptops",
@@ -937,30 +935,13 @@
     "Productdescription": "The iMac Pro is a powerful all-in-one desktop computer from Apple. It features a stunning 27-inch Retina 5K display, a powerful Intel Xeon processor, and advanced graphics options. With its sleek design and workstation-class performance, the iMac Pro is perfect for professionals and creative users.",
     "id": "3"
   },
-   {
+  {
     "productName": "Apple polishing cloth",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MW693_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1711736031009",
     "productCategory": "Other",
     "price": 2999.99,
     "brandName": "Apple",
-    "Productdescription": "Welcome to the future of cleanliness! The Apple Polishing Cloth isn't just a cloth - it's a technological marvel that will change the way you clean your screens forever. Experience the pure essence of innovation and design in a piece of cloth that only Apple could have developed.
-
-Superior fabric technology
-Why bother with ordinary microfiber cloths when you can have the Apple Polishing Cloth? Made from a special, secret fiber developed using cutting-edge quantum mechanics and space science, this cloth guarantees a cleaning experience so flawless that even your screen will shine with delight.
-
-Seamless integration
-Thanks to its seamless integration into the Apple ecosystem, the polishing cloth naturally works best with other Apple products. Clean your MacBook, iPad or iPhone with a precision that will put your friends with their inferior cloths to shame. And don't worry - the cloth is also fully compatible with the latest iOS version.
-
-Revolutionary user experience
-Forget traditional cleaning methods based on strenuous scrubbing and painful hand placement. The Apple Polishing Cloth only needs a gentle touch and your devices are sparkling clean. This cloth gives you a user experience so effortless and intuitive, you'll wonder how you ever lived without it.
-
-Award-winning packaging
-In true Apple fashion, the polishing cloth comes in packaging so elegant and premium that it deserves pride of place in your living room. Unpacking it will be an experience that will increase the anticipation of cleaning your devices immeasurably.
-
-A bargain for connoisseurs
-With a price that makes a clear statement, the Apple polishing cloth is not just a cleaning tool, but a lifestyle accessory. Who needs cheap rival products when you can treat yourself to the exclusivity and status of the Apple Polishing Cloth?
-
-Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready to polish your world as only Apple can.",
+    "Productdescription": "Welcome to the future of cleanliness! The Apple Polishing Cloth isn't just a cloth - it's a technological marvel that will change the way you clean your screens forever. Experience the pure essence of innovation and design in a piece of cloth that only Apple could have developed. Superior fabric technology Why bother with ordinary microfiber cloths when you can have the Apple Polishing Cloth? Made from a special, secret fiber developed using cutting-edge quantum mechanics and space science, this cloth guarantees a cleaning experience so flawless that even your screen will shine with delight. Seamless integration Thanks to its seamless integration into the Apple ecosystem, the polishing cloth naturally works best with other Apple products. Clean your MacBook, iPad or iPhone with a precision that will put your friends with their inferior cloths to shame. And don't worry - the cloth is also fully compatible with the latest iOS version. Revolutionary user experience Forget traditional cleaning methods based on strenuous scrubbing and painful hand placement. The Apple Polishing Cloth only needs a gentle touch and your devices are sparkling clean. This cloth gives you a user experience so effortless and intuitive, you'll wonder how you ever lived without it. Award-winning packaging In true Apple fashion, the polishing cloth comes in packaging so elegant and premium that it deserves pride of place in your living room. Unpacking it will be an experience that will increase the anticipation of cleaning your devices immeasurably. A bargain for connoisseurs With a price that makes a clear statement, the Apple polishing cloth is not just a cleaning tool, but a lifestyle accessory. Who needs cheap rival products when you can treat yourself to the exclusivity and status of the Apple Polishing Cloth? Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready to polish your world as only Apple can.",
     "id": "3"
   },
   {
@@ -972,7 +953,6 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi 12 is a flagship smartphone from Xiaomi. It features a stunning display, a powerful Snapdragon processor, and a versatile camera system. With its sleek design and long battery life, the Mi 12 offers a premium smartphone experience at an affordable price.",
     "id": "4"
   },
-
   {
     "productName": "iPad Air 5",
     "productImage": "https://example.com/ipad-air-5.jpg",
@@ -1009,7 +989,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 14",
     "productImage": "https://i02.appmifile.com/976_operatorx_operatorx_opx/23/02/2024/c4866f7bdd20c6ed7acf6082417dd340.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1018,7 +998,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 14 Ultra",
     "productImage": "https://i02.appmifile.com/91_operatorx_operatorx_opx/24/02/2024/4eafcd40186edde466860564f9ff71e9.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1027,7 +1007,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 13T",
     "productImage": "https://i02.appmifile.com/240_operatorx_operatorx_opx/26/09/2023/ee07297cdf24071db7f6846d9c4727bb.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1036,7 +1016,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 13 Pro",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677427639.01867146.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1045,7 +1025,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 13",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677427681.17943185.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1054,7 +1034,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 12T Pro",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666598561.94078322.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1063,7 +1043,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 12S Ultra",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666613862.55361324.png",
     "productCategory": "Smartwatches",
@@ -1072,7 +1052,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 12T",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666598531.28686121.png",
     "productCategory": "Smartwatches",
@@ -1081,7 +1061,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-   {
+  {
     "productName": "Xiaomi 12 Lite",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666343709.42474042.png",
     "productCategory": "Smartwatches",
@@ -1090,7 +1070,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Xiaomi 12",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344446.10091683.png",
     "productCategory": "Smartwatches",
@@ -1099,7 +1079,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Xiaomi 12 Pro",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344481.20013313.png",
     "productCategory": "Smartwatches",
@@ -1108,7 +1088,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Xiaomi 12 X",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344880.31315118.png",
     "productCategory": "Smartwatches",
@@ -1117,7 +1097,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Xiaomi 12 Lite",
     "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666343709.42474042.png",
     "productCategory": "Smartwatches",
@@ -1126,7 +1106,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Redmi 13",
     "productImage": "https://i02.appmifile.com/580_operatorx_operatorx_opx/05/06/2024/b6ab95ebbd9fb402b423ba9963522a80.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1135,7 +1115,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Redmi A3x",
     "productImage": "https://i02.appmifile.com/795_operatorx_operatorx_opx/03/06/2024/9922b194b401c253b72b91ad36b0ec31.png?thumb=1&w=1000&f=webp&q=85g",
     "productCategory": "Smartwatches",
@@ -1144,7 +1124,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Redmi A3",
     "productImage": "https://i02.appmifile.com/686_operatorx_operatorx_opx/23/02/2024/a13c444dfc0b5db4ecae1e9d0ba10326.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1153,7 +1133,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Redmi Note 13 Pro 5G",
     "productImage": "https://i02.appmifile.com/855_operatorx_operatorx_opx/11/01/2024/4fad3c8039e37a4fa97f8be0462e88e5.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1162,7 +1142,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-    {
+  {
     "productName": "Redmi Note 13 Pro",
     "productImage": "https://i02.appmifile.com/13_operatorx_operatorx_opx/11/01/2024/25da829b5997ff8aea28af388df3b8df.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1171,7 +1151,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Redmi Note 13 5G",
     "productImage": "https://i02.appmifile.com/463_operatorx_operatorx_opx/11/01/2024/e02e51cd6efb5f2282e6921128b2618a.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1180,7 +1160,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Redmi Note 13",
     "productImage": "https://i02.appmifile.com/994_operatorx_operatorx_opx/11/01/2024/72a71b312950178179eeb71425ef8def.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1189,7 +1169,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Xiaomi Watch 2",
     "productImage": "https://i02.appmifile.com/416_operatorx_operatorx_opx/24/02/2024/c324bf4f471fb03d30d89b428886a3b6.png",
     "productCategory": "Smartwatches",
@@ -1198,7 +1178,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Xiaomi Smart Band 8 Pro",
     "productImage": "https://i02.appmifile.com/691_operatorx_operatorx_opx/23/02/2024/af5041d6228d2b380d9b37d18e3cdbad.png",
     "productCategory": "Smartwatches",
@@ -1207,7 +1187,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Xiaomi Watch S3",
     "productImage": "https://i02.appmifile.com/330_operatorx_operatorx_opx/23/02/2024/f9510abb1a58283b4646d3aab11db03c.png",
     "productCategory": "Smartwatches",
@@ -1216,7 +1196,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Redmi Watch 4",
     "productImage": "https://i02.appmifile.com/838_operatorx_operatorx_opx/11/01/2024/202caa28b52da75dbdcdd13564b89913.png",
     "productCategory": "Smartwatches",
@@ -1225,7 +1205,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Xiaomi Watch 2 Pro",
     "productImage": "https://i02.appmifile.com/651_operatorx_operatorx_opx/30/11/2023/d9a896d3b8819d3b5e979745ceae8e48.png",
     "productCategory": "Smartwatches",
@@ -1234,7 +1214,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Xiaomi Smart Band 8",
     "productImage": "https://i02.appmifile.com/797_operatorx_operatorx_opx/26/09/2023/b85b88afff6b9fb37e558cb6f3d261cd.png",
     "productCategory": "Smartwatches",
@@ -1243,7 +1223,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Xiaomi Smart Band 8 Active",
     "productImage": "https://i02.appmifile.com/143_operatorx_operatorx_opx/26/09/2023/11b0085f43a04c2128e316d4a18ef93c.png",
     "productCategory": "Smartwatches",
@@ -1252,7 +1232,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Redmi Watch 3 Active",
     "productImage": "https://i02.appmifile.com/133_operatorx_operatorx_opx/25/06/2023/af1cc31c5b732c0ce504f440373772e2.png",
     "productCategory": "Smartwatches",
@@ -1261,7 +1241,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-     {
+  {
     "productName": "Redmi Note 13",
     "productImage": "https://i02.appmifile.com/994_operatorx_operatorx_opx/11/01/2024/72a71b312950178179eeb71425ef8def.png?thumb=1&w=1000&f=webp&q=85",
     "productCategory": "Smartwatches",
@@ -1270,7 +1250,6 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "id": "8"
   },
-
   {
     "productName": "Samsung Galaxy S22 Ultra",
     "productImage": "https://example.com/samsung-galaxy-s22-ultra.jpg",
@@ -1406,7 +1385,6 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "The HP Spectre x360 is a premium 2-in-1 laptop from HP. It features a stunning 4K OLED display, a powerful Intel Core processor, and a versatile design. With its long battery life and convertible form factor, the Spectre x360 is perfect for professionals and creative users.",
     "id": "19"
   },
-
   {
     "productName": "MacBook Air 13-inch with M3 chip",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-m3-digitalmat-gallery-1-202402?wid=728&hei=666&fmt=png-alpha&.v=1707263990389",
@@ -1416,7 +1394,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "id": "37"
   },
-   {
+  {
     "productName": "MacBook Air 15-inch with M3 chip",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-m3-digitalmat-gallery-1-202402?wid=728&hei=666&fmt=png-alpha&.v=1707264003711",
     "productCategory": "Laptops",
@@ -1425,7 +1403,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "id": "37"
   },
-    {
+  {
     "productName": "MacBook Pro 14-inch",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202310?wid=728&hei=666&fmt=png-alpha&.v=1696971522628",
     "productCategory": "Laptops",
@@ -1434,7 +1412,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "14-inch Liquid Retina XDR display Two Thunderbolt / USB 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port Magic Keyboard with Touch ID Force Touch trackpad 70W USB-C Power Adapter",
     "id": "37"
   },
-     {
+  {
     "productName": "MacBook Pro 16-inch",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-16-digitalmat-gallery-1-202310?wid=728&hei=666&fmt=jpeg&qlt=90&.v=1696971483270",
     "productCategory": "Laptops",
@@ -1443,7 +1421,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "16-inch Liquid Retina XDR display Three Thunderbolt 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port Magic Keyboard with Touch ID Force Touch trackpad 140W USB-C Power Adapter",
     "id": "37"
   },
-       {
+  {
     "productName": "iMac",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
     "productCategory": "Laptops",
@@ -1452,7 +1430,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "24-inch 4.5K Retina display² Two Thunderbolt / USB 4 ports Two USB 3 ports Gigabit Ethernet Magic Keyboard with Touch ID",
     "id": "37"
   },
-         {
+  {
     "productName": "Studio Display",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/studio-display-digitalmat-gallery-1-202203?wid=728&hei=666&fmt=png-alpha&.v=1645207692041",
     "productCategory": "Laptops",
@@ -1461,7 +1439,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "id": "37"
   },
-          {
+  {
     "productName": "Pro Display XDR",
     "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/pro-display-og-image?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1573689238241",
     "productCategory": "Laptops",
@@ -1470,7 +1448,7 @@ Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready 
     "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "id": "37"
   },
-         {
+  {
     "productName": "iMac",
     "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
     "productCategory": "Laptops",
