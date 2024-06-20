@@ -1,39 +1,49 @@
-const mongoose = require('mongoose')
-const dotenv = require('dotenv')
-const fs = require('fs')
-const path = require('path')
+import dotenv from 'dotenv'
+import fs from 'fs'
+import mongoose from 'mongoose'
+import path from 'path'
 
 dotenv.config()
 
-async function seedData () {
+async function importData () {
   try {
-    await mongoose.connect(process.env.DATABASE_URL, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true
-    })
+    await mongoose.connect(process.env.DATABASE_URL!)
     console.log('Connected to database')
 
-    const dataDir = path.join(__dirname, 'data')
+    const dataDir = path.join(__dirname, '../data')
+
+    if (!fs.existsSync(dataDir)) {
+      throw new Error(`Data directory does not exist: ${dataDir}`)
+    }
+
     const files = fs.readdirSync(dataDir)
 
     for (const file of files) {
       if (path.extname(file) === '.json') {
         const collectionName = path.basename(file, '.json')
-        const modelPath = path.join(__dirname, 'models', collectionName)
+        const modelPath = path.join(
+          __dirname,
+          '../models',
+          `${collectionName}.ts`
+        )
 
-        if (fs.existsSync(`${modelPath}.js`)) {
-          const model = require(modelPath.charAt(0).toUpperCase() +
-            modelPath.slice(1))
-
-          const data = JSON.parse(
-            fs.readFileSync(path.join(dataDir, file), 'utf-8')
-          )
-
-          await model.insertMany(data)
-          console.log(`Imported data into ${collectionName} collection`)
-        } else {
+        let model
+        try {
+          model = (await import(modelPath)).default
+        } catch (error) {
           console.warn(`No model found for collection: ${collectionName}`)
+          continue
         }
+
+        const data = JSON.parse(
+          fs.readFileSync(path.join(dataDir, file), 'utf-8')
+        )
+
+        // await model.deleteMany({})
+        // console.log(`Cleared existing data in ${collectionName} collection`)
+
+        await model.insertMany(data)
+        console.log(`Imported data into ${collectionName} collection`)
       }
     }
 
@@ -45,4 +55,4 @@ async function seedData () {
   }
 }
 
-seedData()
+importData()
