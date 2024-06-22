@@ -1,10 +1,15 @@
 import type { Request, Response } from "express";
+import { Types } from "mongoose";
 import { Product } from "../models/product";
 import { User } from "../models/user";
 
-export async function getWishlist(req: Request, res: Response) {
+interface AuthenticatedRequest extends Request {
+  user?: { id: string };
+}
+
+export async function getWishlist(req: AuthenticatedRequest, res: Response) {
   try {
-    const userId = (req as any).user.id;
+    const userId = req.user!.id;
     const user = await User.findById(userId).populate("wishlist.productId");
     if (!user) {
       return res.status(404).json({ error: "User not found" });
@@ -15,9 +20,9 @@ export async function getWishlist(req: Request, res: Response) {
   }
 }
 
-export async function addToWishlist(req: Request, res: Response) {
+export async function addToWishlist(req: AuthenticatedRequest, res: Response) {
   try {
-    const userId = (req as any).user.id;
+    const userId = req.user!.id;
     const { productId } = req.body;
 
     const user = await User.findById(userId);
@@ -30,7 +35,12 @@ export async function addToWishlist(req: Request, res: Response) {
       return res.status(404).json({ error: "Product not found" });
     }
 
-    user.wishlist.push(productId);
+    const wishlistItem = {
+      productId: product._id, // Use product._id directly
+      addedAt: new Date(),
+    };
+
+    user.wishlist.push(wishlistItem as any); // Explicitly cast to any to bypass the TypeScript check
     await user.save();
     res.status(201).json(user.wishlist);
   } catch (error: any) {
@@ -38,14 +48,17 @@ export async function addToWishlist(req: Request, res: Response) {
   }
 }
 
-export async function removeFromWishlist(req: Request, res: Response) {
+export async function removeFromWishlist(
+  req: AuthenticatedRequest,
+  res: Response,
+) {
   try {
-    const userId = (req as any).user.id;
+    const userId = req.user!.id;
     const { productId } = req.body;
 
     const user = await User.findByIdAndUpdate(
       userId,
-      { $pull: { wishlist: { productId } } },
+      { $pull: { wishlist: { productId: new Types.ObjectId(productId) } } },
       { new: true },
     ).populate("wishlist.productId");
 
@@ -59,9 +72,9 @@ export async function removeFromWishlist(req: Request, res: Response) {
   }
 }
 
-export async function clearWishlist(req: Request, res: Response) {
+export async function clearWishlist(req: AuthenticatedRequest, res: Response) {
   try {
-    const userId = (req as any).user.id;
+    const userId = req.user!.id;
 
     const user = await User.findByIdAndUpdate(
       userId,
