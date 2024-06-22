@@ -30,7 +30,7 @@ export async function addToWishlist(req: Request, res: Response) {
       return res.status(404).json({ error: "Product not found" });
     }
 
-    user.wishlist.push({ productId });
+    user.wishlist.push(productId);
     await user.save();
     res.status(201).json(user.wishlist);
   } catch (error: any) {
