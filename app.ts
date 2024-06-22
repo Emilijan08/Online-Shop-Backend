@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import express from "express";
 import authRouter from "./routes/auth";
 import productRouter from "./routes/product";
+import wishlistRouter from "./routes/wishlist";
 
 dotenv.config();
 
@@ -20,5 +21,6 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use("/auth", authRouter);
 app.use("/products", productRouter);
+app.use("/wishlist", wishlistRouter);
 
 export default app;
