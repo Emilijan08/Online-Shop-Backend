@@ -4,31 +4,33 @@ interface IComment extends Document {
   text: string;
   user: string;
   createdAt: Date;
+  rating: number;
 }
 
 interface IProduct extends Document {
-  productName: string;
-  productImage: string;
+  name: string;
+  description: string;
+  image: string;
   price: number;
-  brandName: string;
-  gender: string;
-  type: string;
-  comments: IComment[];
+  brand: string;
+  category: string;
+  comments: IComment[],
 }
 
 const commentSchema = new Schema<IComment>({
   text: { type: String, required: false },
   user: { type: String, required: false },
   createdAt: { type: Date, default: Date.now, required: false },
+  rating: { type: Number, required: false },
 });
 
 const productSchema = new Schema<IProduct>({
-  productName: { type: String, required: true },
-  productImage: { type: String, required: true },
+  name: { type: String, required: true },
+  description: { type: String, required: true },
+  image: { type: String, required: true },
   price: { type: Number, required: true },
-  brandName: { type: String, required: true },
-  gender: { type: String, required: false },
-  type: { type: String, required: false },
+  brand: { type: String, required: true },
+  category: { type: String, required: true },
   comments: [commentSchema, { required: false }],
 });
 

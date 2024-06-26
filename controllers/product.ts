@@ -11,17 +11,18 @@ export async function getAllProducts(req: Request, res: Response) {
 }
 
 export async function createProduct(req: Request, res: Response) {
-  const { productName, productImage, price, brandName, gender, type } =
+  const { name, description, image, price, brand, category, comments } =
     req.body;
 
   try {
     const product = new Product({
-      productName,
-      productImage,
+      name,
+      description,
+      image,
       price,
-      brandName,
-      gender,
-      type,
+      brand,
+      category,
+      comments
     });
     const createdProduct = await product.save();
     res.status(201).json(createdProduct);

@@ -1,646 +1,198 @@
 [
   {
-    "productName": "Iphone",
-    "productImage": "https://m.media-amazon.com/images/I/61dYwO-5fwL._AC_UX569_.jpg",
-    "price": 79.99,
-    "brandName": "Apple",
-    "comments": [
- 
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-
-
-},
-  
-  {
-    "productName": "PUMA Puma Shuffle Low Boot",
-    "productImage": "https://m.media-amazon.com/images/I/81o4mYobAgL._AC_SX695_.jpg",
-    "price": 89.99,
-    "brandName": "Puma",
-    "type": "Casual",
+    "name": "Iphone 15 plus",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15plus-digitalmat-gallery-4-202309?wid=728&hei=666&fmt=png-alpha&.v=1693011173707",
+    "category": "Smartphones",
+    "price": 1199.99,
+    "brand": "Apple",
+    "description": "Experience the ultimate in smartphone technology with the iPhone 15 Plus. Featuring a powerful A15 Bionic chip and a stunning Super Retina XDR OLED display, this flagship device sets new standards for performance and visual excellence. Its advanced triple-camera system delivers unparalleled photo and video quality, while its sleek design epitomizes elegance and sophistication. With features like 5G connectivity and MagSafe technology, the iPhone 15 Plus redefines what a smartphone can do.",
+    "averagePrice": 1199.99,
     "comments": [
       {
-        "text": "Ürün çok kısa sürede elime ulaştı ve çok memnun kaldım.",
-        "user": "Levent123",
-        "createdAt": "2023-05-23T18:31:27.516Z"
-      },
-    
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "text": "Great phone, loving it!",
+        "user": "techlover82",
+        "createdAt": "2024-02-15T10:30:00.000Z",
+        "rating": 5
       },
       {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
+        "text": "Best iPhone ever made!",
+        "user": "applefanatic",
+        "createdAt": "2024-03-10T15:45:00.000Z",
+        "rating": 5
       },
       {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
+        "text": "Solid performance and amazing camera.",
+        "user": "photobug76",
+        "createdAt": "2024-03-20T08:12:00.000Z",
+        "rating": 4.8
       },
       {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-  {
-    "productName": "Puma Flyer Flex",
-    "productImage": "https://m.media-amazon.com/images/I/61db2cSAjsL._AC_SY695_.jpg",
-    "price": 75.45,
-    "brandName": "Puma",
-    "gender": "Unisex",
-    "type": "Running",
-    "comments": [
-      {
-        "text": "Harika ayakkabı",
-        "user": "Emir",
-        "createdAt": "2023-05-22T16:05:27.840Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-     
-
-
-  {
-    "productName": "Men's Giannis Immortality",
-    "productImage": "https://m.media-amazon.com/images/I/61ixkdgCOgL._AC_UL400_.jpg",
-    "price": 39.99,
-    "brandName": "Apple",
-    "type": "Sports",
-    "comments": [
-      {
-        "text": "asd",
-        "user": "Xondamir",
-        "createdAt": "2023-08-20T11:06:23.841Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-     
-  {
-    "productName": "PUMA Women's Softride Sophia ",
-    "productImage": "https://m.media-amazon.com/images/I/71Yn8Ykb9tL._AC_UL400_.jpg",
-    "price": 49.99,
-    "brandName": "Puma",
-    "gender": "Woman",
-    "type": "Running",
-    "comments": [
-      {
-        "text": "Good",
-        "user": "Emir",
-        "createdAt": "2023-05-24T17:28:52.944Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-     
-
-
-  {
-    "productName": "Apple Training",
-    "productImage": "https://m.media-amazon.com/images/I/81piWyfMXHL._AC_UL400_.jpg",
-    "price": 39.99,
-    "brandName": "Apple",
-    "type": "Running",
-    "comments": [
-      {
-        "text": "",
-        "user": "Emir",
-        "createdAt": "2023-05-22T19:18:12.185Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
+        "text": "Beautiful design and fast processing.",
+        "user": "designlover",
+        "createdAt": "2024-04-05T14:20:00.000Z",
+        "rating": 4.7
       }
     ]
   },
-
-
-
-     
   {
-    "productName": "PUMA Women's Blur",
-    "productImage": "https://m.media-amazon.com/images/I/61oX9i60cOL._AC_UL400_.jpg",
-    "price": 89.99,
-    "brandName": "Puma",
-    "gender": "Women",
-    "type": "Running",
-   
-    "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-  {
-    "productName": "Apple Mens Dunk High ",
-    "productImage": "https://m.media-amazon.com/images/I/71ATu7t1pvL._AC_UL400_.jpg",
-    "price": 145,
-    "brandName": "Apple",
-    "type": "Sports",
-   
-    "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-  {
-    "productName": "Apple Men's Sport Trail",
-    "productImage": "https://m.media-amazon.com/images/I/610fd2iFeSL._AC_UX679_.jpg",
-    "price": 90.99,
-    "brandName": "Apple",
-    "type": "Running",
-    "comments": [
-      {
-        "text": "çok iyi",
-        "user": "Emir",
-        "createdAt": "2023-08-09T12:24:45.265Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-     
-  {
-    "productName": "Adidas Men's Lite Racer Adapt 4.0",
-    "productImage": "https://m.media-amazon.com/images/I/81cuTtP+n6L._AC_UL400_.jpg",
-    "price": 44.99,
-    "brandName": "Adidas",
-    "type": "Running",
-    "comments": [
-      {
-        "text": "好好好哦\n",
-        "user": "123",
-        "createdAt": "2024-05-07T07:05:34.808Z",
-        "rating" : 3.5
-      },
-      {
-        "text": "aslkdğaplds\n", 
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui",
-        "user": "Xondamir",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-  {
-    "productName": "Iphone 15 plus",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15plus-digitalmat-gallery-4-202309?wid=728&hei=666&fmt=png-alpha&.v=1693011173707",
-    "productCategory": "Smartphones",
+    "name": "iPhone 15 Pro Max",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15promax-digitalmat-gallery-3-202309?wid=728&hei=666&fmt=png-alpha&.v=1710800172673",
+    "category": "Smartphones",
     "price": 1199.99,
-    "brandName": "Apple",
-    "Productdescription": "The iPhone 15 Pro Max is the ultimate flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro Max sets a new standard for mobile innovation.",
-    
+    "brand": "Apple",
+    "description": "The iPhone 15 Pro Max is the ultimate flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro Max sets a new standard for mobile innovation.",
+    "averagePrice": 1199.99,
     "comments": [
-      
       {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
+        "text": "Superb performance and excellent camera.",
+        "user": "techreviewer2024",
+        "createdAt": "2024-01-25T09:00:00.000Z",
+        "rating": 4.9
       },
       {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "text": "Great battery life and smooth interface.",
+        "user": "smartphonelover",
+        "createdAt": "2024-02-10T17:30:00.000Z",
+        "rating": 4.8
       },
       {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
+        "text": "Impressed with the 5G connectivity.",
+        "user": "speedster",
+        "createdAt": "2024-03-05T11:45:00.000Z",
+        "rating": 4.7
       },
       {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
+        "text": "Amazing display quality.",
+        "user": "videophile23",
+        "createdAt": "2024-04-20T14:00:00.000Z",
+        "rating": 4.9
       }
     ]
-
   },
   {
-    "productName": "Ipvone 15 Pro Max",
-    "productImage": "https://www.apple.com/v/iphone-15-pro/c/images/overview/contrast/iphone_15pro__3nx4u28gc026_large_2x.jpg",
-    "productCategory": "Smartphones",
-    "price": 1199.99,
-    "brandName": "Apple",
-    "Productdescription": "The iPhone 15 Pro Max is the ultimate flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro Max sets a new standard for mobile innovation.",
-   
-    "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-     
-  {
-    "productName": "Iphone 15",
-    "productImage": "https://www.apple.com/v/iphone-15-pro/c/images/overview/contrast/iphone_15__dthdw40fq0wi_large_2x.jpg",
-    "productCategory": "Smartphones",
+    "name": "Iphone 15",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15-digitalmat-gallery-4-202309?wid=728&hei=666&fmt=png-alpha&.v=1693011173707",
+    "category": "Smartphones",
     "price": 1099.99,
-    "brandName": "Apple",
-    "Productdescription": "Discover the future of mobile technology with the iPhone 15. Equipped with the A15 Bionic chip, this smartphone delivers unmatched performance and efficiency. Its Pro camera system captures stunning photos and videos with remarkable clarity and detail, while the Super Retina XDR OLED display provides an immersive viewing experience. With its sleek design and advanced features, the iPhone 15 is designed to impress.",
- 
+    "brand": "Apple",
+    "description": "Discover the future of mobile technology with the iPhone 15. Equipped with the A15 Bionic chip, this smartphone delivers unmatched performance and efficiency. Its Pro camera system captures stunning photos and videos with remarkable clarity and detail, while the Super Retina XDR OLED display provides an immersive viewing experience. With its sleek design and advanced features, the iPhone 15 is designed to impress.",
+    "averagePrice": 1099.99,
     "comments": [
       {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "text": "Solid build quality and fast processor.",
+        "user": "gadgetgeek2024",
+        "createdAt": "2024-01-10T12:00:00.000Z",
+        "rating": 4.6
       },
       {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
+        "text": "Excellent camera performance.",
+        "user": "photographylover",
+        "createdAt": "2024-02-05T15:20:00.000Z",
+        "rating": 4.7
       },
       {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
+        "text": "Sleek design and smooth interface.",
+        "user": "techenthusiast",
+        "createdAt": "2024-03-15T10:30:00.000Z",
+        "rating": 4.5
       },
       {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
+        "text": "Good battery life and impressive display.",
+        "user": "displayfanatic",
+        "createdAt": "2024-04-10T18:00:00.000Z",
+        "rating": 4.6
       }
     ]
-
-},
-      
-
+  },
   {
-    "productName": "Iphone 15 Pro",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15pro-digitalmat-gallery-3-202309?wid=728&hei=666&fmt=png-alpha&.v=1693081542150",
-    "productCategory": "Smartphones",
+    "name": "Iphone 15 Pro",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone15pro-digitalmat-gallery-3-202309?wid=728&hei=666&fmt=png-alpha&.v=1693081542150",
+    "category": "Smartphones",
     "price": 999.99,
-    "brandName": "Apple",
-    "Productdescription": "The iPhone 15 Pro is the latest flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro sets a new standard for mobile innovation.",
-  
+    "brand": "Apple",
+    "description": "The iPhone 15 Pro is the latest flagship smartphone from Apple, featuring a stunning Super Retina XDR OLED display, powered by the A15 Bionic chip. It boasts an advanced triple-camera system with improved low-light performance and enhanced computational photography capabilities. With its sleek design and impressive performance, the iPhone 15 Pro sets a new standard for mobile innovation.",
+    "averagePrice": 999.99,
     "comments": [
       {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "text": "Fast and reliable performance.",
+        "user": "speeddemon2024",
+        "createdAt": "2024-01-20T14:30:00.000Z",
+        "rating": 4.5
       },
       {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
+        "text": "Great for multitasking and gaming.",
+        "user": "gamingenthusiast",
+        "createdAt": "2024-02-15T16:45:00.000Z",
+        "rating": 4.6
       },
       {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
+        "text": "Impressive camera capabilities.",
+        "user": "cameralover",
+        "createdAt": "2024-03-25T11:00:00.000Z",
         "rating": 4.4
+      },
+      {
+        "text": "Smooth interface and good battery life.",
+        "user": "techreviewer24",
+        "createdAt": "2024-04-15T09:30:00.000Z",
+        "rating": 4.5
       }
     ]
-
-},
-     
+  },
   {
-    "productName": "Iphone 14",
-    "productImage": "https://www.digitec.ch/im/productimages/2/7/5/6/1/4/8/5/4/3/7/2/1/5/0/8/3/1/4/c8ce1f26-0794-418d-b1f4-185e273ca53d.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Smartphones",
+    "name": "Iphone 14",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-14-midnight-202404?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1713204675814",
+    "category": "Smartphones",
     "price": 999.99,
-    "brandName": "Apple",
-    "Productdescription": "Discover the future of mobile technology with the iPhone 14. Equipped with the A14 Bionic chip, this smartphone delivers unmatched performance and efficiency. Its Pro camera system captures stunning photos and videos with remarkable clarity and detail, while the Super Retina XDR OLED display provides an immersive viewing experience. With its sleek design and advanced features, the iPhone 14 is designed to impress.",
- 
+    "brand": "Apple",
+    "description": "Discover the future of mobile technology with the iPhone 14. Equipped with the A14 Bionic chip, this smartphone delivers unmatched performance and efficiency. Its Pro camera system captures stunning photos and videos with remarkable clarity and detail, while the Super Retina XDR OLED display provides an immersive viewing experience. With its sleek design and advanced features, the iPhone 14 is designed to impress.",
+    "averagePrice": 999.99,
     "comments": [
       {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "text": "Fast and efficient, great camera quality.",
+        "user": "cameraenthusiast",
+        "createdAt": "2024-01-30T13:15:00.000Z",
+        "rating": 4.5
       },
       {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
+        "text": "Excellent display and smooth performance.",
+        "user": "techlover2024",
+        "createdAt": "2024-02-25T10:00:00.000Z",
+        "rating": 4.6
       },
       {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
+        "text": "Sleek design and good battery life.",
+        "user": "designfanatic",
+        "createdAt": "2024-03-10T14:30:00.000Z",
         "rating": 4.4
+      },
+      {
+        "text": "Overall great phone for everyday use.",
+        "user": "everydayuser",
+        "createdAt": "2024-04-05T12:45:00.000Z",
+        "rating": 4.5
       }
     ]
-
-},
-     
+  },
   {
-    "productName": "Iphone 14 Pro Max",
-    "productImage": "https://www.digitec.ch/im/productimages/6/3/9/4/3/0/0/1/0/8/4/8/2/3/1/1/2/2/1/e679410c-2399-4029-87fc-6efb6b40a5a7.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Smartphones",
+    "name": "Iphone 14 Pro Max",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-14-pro-max-silver-202404?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1713200623079",
+    "category": "Smartphones",
     "price": 999.99,
-    "brandName": "Apple",
-    "Productdescription": "Experience the power of innovation with the iPhone 14 Pro Max. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro Max redefines what a smartphone can do.",
-   
+    "brand": "Apple",
+    "description": "Experience the power of innovation with the iPhone 14 Pro Max. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro Max redefines what a smartphone can do.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -661,29 +213,26 @@
         "rating": 4.4
       }
     ]
-
-},
-    
+  },
   {
-    "productName": "Iphone 14 Pro",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-14-pro-spaceblack-202404?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1712956909430",
-    "productCategory": "Smartphones",
+    "name": "Iphone 14 Pro",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-14-pro-spaceblack-202404?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1712956909430",
+    "category": "Smartphones",
     "price": 899.99,
-    "brandName": "Apple",
-    "Productdescription": "Experience the power of innovation with the iPhone 14 Pro. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro redefines what a smartphone can do.",
-   
+    "brand": "Apple",
+    "description": "Experience the power of innovation with the iPhone 14 Pro. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro redefines what a smartphone can do.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -704,29 +253,26 @@
         "rating": 4.4
       }
     ]
-
-},
-     
+  },
   {
-    "productName": "Iphone 14 plus",
-    "productImage": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-midnight?wid=5120&hei=2880&fmt=webp&qlt=70&.v=bjlYUjk1NXN2Uy9CTWFMaXBneUF0bEthL1VsNXgveGUwQ1JqNzA0ZHArazIrU1NEYjh6WWVrVzhHM2F3a1dJUFpGQnBBWVp4a3ZSd0Y4NzlDUVE4dUJUU08xVXZOQlVmeWYva2RCcG9vcVV1ZjlxTlY3MytTR2REMjloelN3ZGs4WTl0a1kzbVY5SDFMTVoxSUZsMU9nPT0=&traceId=1",
-    "productCategory": "Smartphones",
+    "name": "Iphone 14 plus",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-14-plus-midnight-202404?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1713205044906",
+    "category": "Smartphones",
     "price": 899.99,
-    "brandName": "Apple",
-    "Productdescription": "Experience the power of innovation with the iPhone 14 Pro. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro redefines what a smartphone can do.",
-   
+    "brand": "Apple",
+    "description": "Experience the power of innovation with the iPhone 14 Pro. Equipped with the A14 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 14 Pro redefines what a smartphone can do.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -747,29 +293,26 @@
         "rating": 4.4
       }
     ]
-
-},
-      
+  },
   {
-    "productName": "Iphone 13",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-midnight-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072986530",
-    "productCategory": "Smartphones",
+    "name": "Iphone 13",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-midnight-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072986530",
+    "category": "Smartphones",
     "price": 799.99,
-    "brandName": "Apple",
-    "Productdescription": "Elevate your mobile experience with the iPhone 13. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its dual-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 is the ultimate expression of innovation.",
-    
+    "brand": "Apple",
+    "description": "Elevate your mobile experience with the iPhone 13. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its dual-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 is the ultimate expression of innovation.",
     "comments": [
       {
         "text": "",
         "user": "Emir",
-        "createdAt": "2023-05-22T19:18:12.185Z"
-        ,"rating": 4.2
-},
+        "createdAt": "2023-05-22T19:18:12.185Z",
+        "rating": 4.2
+      },
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -790,26 +333,26 @@
         "rating": 4.4
       }
     ]
-},
+  },
   {
-    "productName": "Iphone 13 Pro Max",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644988765122",
-    "productCategory": "Smartphones",
+    "name": "Iphone 13 Pro Max",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-max-blue-2023?wid=400&hei=400&fmt=jpeg&qlt=90&.v=1679072989205",
+    "category": "Smartphones",
     "price": 899.99,
-    "brandName": "Apple",
-    "Productdescription": "Elevate your mobile experience with the iPhone 13 Pro Max. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its triple-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 Pro Max is the ultimate expression of innovation.",
-     "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
+    "brand": "Apple",
+    "description": "Elevate your mobile experience with the iPhone 13 Pro Max. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its triple-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 Pro Max is the ultimate expression of innovation.",
+    "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 4.2
+      },
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -830,28 +373,25 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Iphone 13 Pro",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone13-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644988765122",
-    "productCategory": "Smartphones",
+    "name": "Iphone 13 Pro",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-graphite-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072987081",
+    "category": "Smartphones",
     "price": 799.99,
-    "brandName": "Apple",
-    "Productdescription": "Elevate your mobile experience with the iPhone 13 Pro. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its triple-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 Pro is the ultimate expression of innovation.",
-    
-     "comments": [
+    "brand": "Apple",
+    "description": "Elevate your mobile experience with the iPhone 13 Pro. Featuring a powerful A13 Bionic chip and a stunning Super Retina XDR OLED display, this smartphone delivers uncompromising performance and visual excellence. Its triple-camera system enables you to capture professional-quality photos and videos, while its sleek design exudes elegance and sophistication. With advanced features like 5G connectivity and MagSafe technology, the iPhone 13 Pro is the ultimate expression of innovation.",
+    "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "rating": 4.6
-        ,"rating": 4.2
-},
+      },
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -872,222 +412,35 @@
         "rating": 4.4
       }
     ]
-
-
-},
-  {
-    "productName": "Iphone 12",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-blue-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202745000",
-    "productCategory": "Smartphones",
-    "price": 699.99,
-    "brandName": "Apple",
-    "Productdescription": "Introducing the iPhone 12, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its dual-camera system captures stunning photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 is designed to impress.",
-    
-    "comments":[
-
-
-    ]
-},
-    
-  {
-    "productName": "Iphone 12 Mini",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-mini-black-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202794000",
-    "productCategory": "Smartphones",
-    "price": 599.99,
-    "brandName": "Apple",
-    "Productdescription": "Introducing the iPhone 12 Mini, the epitome of performance and style in a compact form factor. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its dual-camera system captures stunning photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 Mini is designed to impress.",
-  
-     "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-    
-  {
-    "productName": "Iphone 12 Pro Max",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-max-blue-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202944000",
-    "productCategory": "Smartphones",
-    "price": 799.99,
-    "brandName": "Apple",
-    "Productdescription": "Introducing the iPhone 12 Pro Max, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its Pro camera system captures breathtaking photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 Pro Max is designed to impress.",
-     "comments": [
-     ]
-    },
-  {
-    "productName": "Iphone 12 Pro",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-silver-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202851000",
-    "productCategory": "Smartphones",
-    "price": 699.99,
-    "brandName": "Apple",
-    "Productdescription": "Introducing the iPhone 12 Pro, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its Pro camera system captures breathtaking photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone ",
-   "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-     
-  {
-    "productName": "Iphone 11 Pro Max",
-    "productImage": "https://www.digitec.ch/im/Files/2/8/8/1/9/4/9/1/iPhone_11_Pro_Max_SG_2.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Smartphones",
-    "price": 699.99,
-    "brandName": "Apple",
-    "Productdescription": "Experience the power of innovation with the iPhone 11 Pro Max. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro Max redefines what a smartphone can do.",
-     "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-  
-
   },
-   
   {
-    "productName": "Iphone 11 Pro",
-    "productImage": "https://www.digitec.ch/im/Files/2/8/8/1/8/9/5/9/iPhone_11_Pro_MG_2.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Smartphones",
-    "price": 599.99,
-    "brandName": "Apple",
-    "Productdescription": "Experience the power of innovation with the iPhone 11 Pro. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro redefines what a smartphone can do.",
-  "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-      
+    "name": "Iphone 12",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-blue-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202745000",
+    "category": "Smartphones",
+    "price": 699.99,
+    "brand": "Apple",
+    "description": "Introducing the iPhone 12, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its dual-camera system captures stunning photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 is designed to impress.",
+    "comments": []
+  },
   {
-    "productName": "Iphone 11",
-    "productImage": "https://www.digitec.ch/im/Files/2/8/8/1/4/4/3/0/iPhone_11_B_2.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Smartphones",
+    "name": "Iphone 12 Mini",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-mini-black-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202794000",
+    "category": "Smartphones",
     "price": 599.99,
-    "brandName": "Apple",
-    "Productdescription": "Experience the power of innovation with the iPhone 11 Pro. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro redefines what a smartphone can do.",
+    "brand": "Apple",
+    "description": "Introducing the iPhone 12 Mini, the epitome of performance and style in a compact form factor. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its dual-camera system captures stunning photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 Mini is designed to impress.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1108,215 +461,361 @@
         "rating": 4.4
       }
     ]
-
-},
-     
+  },
   {
-    "productName": "Iphone SE (2020)",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphonese-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644987579761",
-    "productCategory": "Smartphones",
-    "price": 399.99,
-    "brandName": "Apple",
-    "Productdescription": "Get the power of the iPhone in a compact and affordable package with the iPhone SE (2020). Featuring the A13 Bionic chip, this smartphone delivers blazing-fast performance and efficiency. Its advanced camera system captures stunning photos and videos, while the Retina HD display offers an immersive viewing experience. With its sleek design and advanced features, the iPhone SE (2020) is the perfect choice for those who want the best of Apple in a smaller form factor.",
-     "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-        ,"rating": 4.2
-},
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-     
-  {
-    "productName": "Apple Watch Ultra 2",
-    "productImage": "https://www.apple.com/v/watch/bl/images/overview/select/product_u2__ebztafh9rvau_xlarge_2x.png",
-    "productCategory": "Smartwatches",
+    "name": "Iphone 12 Pro Max",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-max-blue-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202944000",
+    "category": "Smartphones",
     "price": 799.99,
-    "brandName": "Apple",
-    "Productdescription": "Enhance your active lifestyle with the Apple Watch Ultra 2. Featuring a durable titanium case and a sapphire crystal display, this smartwatch is built to withstand the rigors of outdoor adventures. Its advanced health monitoring sensors track your heart rate, activity levels, and more, while GPS and cellular capabilities keep you connected wherever you go. With its sleek design and innovative features, the Apple Watch Ultra 2 is the ultimate companion for fitness enthusiasts and outdoor enthusiasts alike.",
-    "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-      
-
-},
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z"
-     
-
-},
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z"
-    
-
-},
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z"
-      }
-    ]
-  
-
-},
+    "brand": "Apple",
+    "description": "Introducing the iPhone 12 Pro Max, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its Pro camera system captures breathtaking photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone 12 Pro Max is designed to impress.",
+    "comments": []
+  },
   {
-    "productName": "Apple Watch Ultra",
-    "productImage": "https://m.media-amazon.com/images/I/91z5KuonXrL._AC_UF1000,1000_QL80_.jpg",
-    "productCategory": "Smartwatches",
+    "name": "Iphone 12 Pro",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-pro-silver-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202851000",
+    "category": "Smartphones",
     "price": 699.99,
-    "brandName": "Apple",
-    "Productdescription": "Stay connected and motivated with the Apple Watch Ultra. Featuring a lightweight aluminum case and a vibrant Retina display, this smartwatch is designed for all-day wear. Its advanced health monitoring features help you stay on top of your fitness goals, while built-in GPS and cellular capabilities keep you connected on the go. With its sleek design and intuitive interface, the Apple Watch Ultra is the perfect companion for an active lifestyle.",
-     "comments": [
+    "brand": "Apple",
+    "description": "Introducing the iPhone 12 Pro, the epitome of performance and style. Powered by the A14 Bionic chip, this smartphone delivers unparalleled speed and efficiency. Its Pro camera system captures breathtaking photos and videos in any lighting conditions, while the Super Retina XDR OLED display offers a truly immersive viewing experience. With its sleek design and advanced features like 5G connectivity, the iPhone ",
+    "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-    
-
-},
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z"
-      
-
-},
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z"
-    
-},
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z"
-      }
-    ]
- 
-
-},
-  {
-    "productName": "Apple Watch SE",
-    "productImage": "https://www.apple.com/v/watch/bl/images/overview/select/product_se__frx4hb13romm_xlarge_2x.png",
-    "productCategory": "Smartwatches",
-    "price": 499.99,
-    "brandName": "Apple",
-    "Productdescription": "Get the best of both worlds with the Apple Watch SE. Combining the essential features of a smartwatch with the affordability of a budget-friendly device, the Apple Watch SE offers an unbeatable value.Its Retina display and advanced health monitoring sensors keep you connected and informed throughout the day, while its sleek design and intuitive interface make it easy to use. Whether you're tracking your fitness goals or staying in touch with loved ones, the Apple Watch SE has you covered.",
-   "comments": [
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z"
-     
-
-},
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
       {
         "text": "güzel",
         "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z"
-      
-
-},
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
       {
         "text": "hui\n",
         "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z"
-   
-
-},
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
       {
         "text": "hello",
         "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z"
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
       }
     ]
-  
-},
+  },
   {
-    "productName": "Apple Watch Series 7",
-    "productImage": "https://example.com/apple-watch-series-7.jpg",
-    "productCategory": "Smartwatches",
+    "name": "Iphone 11 Pro Max",
+    "image": "https://www.digitec.ch/im/Files/2/8/8/1/9/4/9/1/iPhone_11_Pro_Max_SG_2.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 699.99,
+    "brand": "Apple",
+    "description": "Experience the power of innovation with the iPhone 11 Pro Max. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro Max redefines what a smartphone can do.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Iphone 11 Pro",
+    "image": "https://www.digitec.ch/im/Files/2/8/8/1/8/9/5/9/iPhone_11_Pro_MG_2.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 599.99,
+    "brand": "Apple",
+    "description": "Experience the power of innovation with the iPhone 11 Pro. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro redefines what a smartphone can do.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Iphone 11",
+    "image": "https://www.digitec.ch/im/Files/2/8/8/1/4/4/3/0/iPhone_11_B_2.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 599.99,
+    "brand": "Apple",
+    "description": "Experience the power of innovation with the iPhone 11 Pro. Equipped with the A13 Bionic chip, this smartphone delivers blazing-fast performance and unparalleled efficiency. Its Pro camera system captures stunning photos and videos, while the Super Retina XDR OLED display offers immersive viewing experiences. From its elegant design to its cutting-edge features, the iPhone 11 Pro redefines what a smartphone can do.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Iphone SE (2020)",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphonese-digitalmat-gallery-3-202203?wid=728&hei=666&fmt=png-alpha&.v=1644987579761",
+    "category": "Smartphones",
     "price": 399.99,
-    "brandName": "Apple",
-    "Productdescription": "The Apple Watch Series 7 is the latest smartwatch from Apple. It features a stunning Always-On Retina display, a faster dual-core processor, and advanced health and fitness tracking features. With its sleek design and customizable bands, the Series 7 is perfect for staying connected and active.",
+    "brand": "Apple",
+    "description": "Get the power of the iPhone in a compact and affordable package with the iPhone SE (2020). Featuring the A13 Bionic chip, this smartphone delivers blazing-fast performance and efficiency. Its advanced camera system captures stunning photos and videos, while the Retina HD display offers an immersive viewing experience. With its sleek design and advanced features, the iPhone SE (2020) is the perfect choice for those who want the best of Apple in a smaller form factor.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 4.2
+      },
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Apple Watch Ultra 2",
+    "image": "https://www.apple.com/v/watch/bl/images/overview/select/product_u2__ebztafh9rvau_xlarge_2x.png",
+    "category": "Smartwatches",
+    "price": 799.99,
+    "brand": "Apple",
+    "description": "Enhance your active lifestyle with the Apple Watch Ultra 2. Featuring a durable titanium case and a sapphire crystal display, this smartwatch is built to withstand the rigors of outdoor adventures. Its advanced health monitoring sensors track your heart rate, activity levels, and more, while GPS and cellular capabilities keep you connected wherever you go. With its sleek design and innovative features, the Apple Watch Ultra 2 is the ultimate companion for fitness enthusiasts and outdoor enthusiasts alike.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z"
-     
-
-},
+      },
       {
         "text": "güzel",
         "user": "Emir",
         "createdAt": "2023-05-23T18:26:14.768Z"
-     
-
-},
+      },
       {
         "text": "hui\n",
         "user": "",
         "createdAt": "2023-09-09T14:06:09.014Z"
-     
-
-},
+      },
       {
         "text": "hello",
         "user": "admin123456",
         "createdAt": "2023-11-27T14:25:26.777Z"
       }
     ]
-  
-
-},
+  },
   {
-    "productName": "Apple Watch Series 8" ,
-    "productImage": "https://example.com/apple-watch-series-8.jpg",
-    "productCategory": "Smartwatches",
+    "name": "Apple Watch Ultra",
+    "image": "https://m.media-amazon.com/images/I/91z5KuonXrL._AC_UF1000,1000_QL80_.jpg",
+    "category": "Smartwatches",
+    "price": 699.99,
+    "brand": "Apple",
+    "description": "Stay connected and motivated with the Apple Watch Ultra. Featuring a lightweight aluminum case and a vibrant Retina display, this smartwatch is designed for all-day wear. Its advanced health monitoring features help you stay on top of your fitness goals, while built-in GPS and cellular capabilities keep you connected on the go. With its sleek design and intuitive interface, the Apple Watch Ultra is the perfect companion for an active lifestyle.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 5
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 5
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Apple Watch SE",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT5H3_VW_34FR+watch-case-44-aluminum-silver-nc-se_VW_34FR+watch-face-44-aluminum-silver-se_VW_34FR?wid=752&hei=720&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=ZVdzMmdqOFY5V2g2UUpEQldHQm1DQmJnWjJGdmhDSm9jUGNSdkZQN3V5RXZBUXVDSWtueGFFWmRtanJVdndvV09KUzdvZ3djYmY2eTQxUi9CM2Izc29DNzYrNGRIMHRPSWhwWHUwTUg4SDkrWk8xOUJna1QreFdobVdRV2dCS1pVUmtYY1JKc0FOcUw1UWwrK2NiUXIrRHRmOVorV3Ztc3o4b1lKOXQwd0thckpmNWN0WVRsNmlxbjU0T3JCYkhaMGEwblVNOVhzM0pmS2Z6MDY4ZW5oSkFrbHlFbFZ4aDlOajlIZk5vKzViOD0=",
+    "category": "Smartwatches",
+    "price": 280.00,
+    "brand": "Apple",
+    "description": "Get the best of both worlds with the Apple Watch SE. Combining the essential features of a smartwatch with the affordability of a budget-friendly device, the Apple Watch SE offers an unbeatable value.Its Retina display and advanced health monitoring sensors keep you connected and informed throughout the day, while its sleek design and intuitive interface make it easy to use. Whether you're tracking your fitness goals or staying in touch with loved ones, the Apple Watch SE has you covered.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 5
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 5
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Apple Watch Series 7",
+    "image": "https://example.com/apple-watch-series-7.jpg",
+    "category": "Smartwatches",
+    "price": 399.99,
+    "brand": "Apple",
+    "description": "The Apple Watch Series 7 is the latest smartwatch from Apple. It features a stunning Always-On Retina display, a faster dual-core processor, and advanced health and fitness tracking features. With its sleek design and customizable bands, the Series 7 is perfect for staying connected and active.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 5
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 5
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "Apple Watch Series 8",
+    "image": "https://example.com/apple-watch-series-8.jpg",
+    "category": "Smartwatches",
     "price": 449.99,
-    "brandName": "Apple",
-    "Productdescription": "The Apple Watch Series 8 is the newest smartwatch from Apple. It features a larger and brighter Always-On Retina display, a more powerful S8 chip, and advanced health and fitness tracking features. With its sleek design and innovative features, the Series 8 sets a new standard for smartwatches.",
-   
+    "brand": "Apple",
+    "description": "The Apple Watch Series 8 is the newest smartwatch from Apple. It features a larger and brighter Always-On Retina display, a more powerful S8 chip, and advanced health and fitness tracking features. With its sleek design and innovative features, the Series 8 sets a new standard for smartwatches.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1337,22 +836,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Apple Watch Series 9",
-    "productImage": "https://www.apple.com/v/watch/bl/images/overview/select/product_s9__b8uw2qgcgw1y_xlarge_2x.png",
-    "productCategory": "Smartwatches",
+    "name": "Apple Watch Series 9",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MT593ref_VW_34FR+watch-case-45-aluminum-midnight-cell-s9_VW_34FR+watch-face-45-aluminum-midnight-s9_VW_34FR_WF_CO?wid=752&hei=720&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=bTdpejUvZEt5Ty9YYUR5VVJVUzVoM00zNmJwS21GSEN1QlZhZzcwZ0NZbDlEbzMrd1Z5SUpEd0hiT0ZLRlZGNC9Dc1FCbmxGdFRXRjF3RS8vbDcrL0tNODN4SEZ6QXpHU01yRWZxdXRlZlY5RG8zK3dWeUlKRHdIYk9GS0ZWRjRuMU5rNXFEOEVYUlE4QjJTQ2RNei9XOGlyL09DT3g3aVc1ZjlEUnFzYmRCZFJCVXJ3bE5KOVh5OUdia3BCcE1ScUxiN3NiK2JGZWRDNnlMS29nRGswd1hsanB4eURGQXV2SzZ0LzVwZlpHRTJESUFYTTR5ZFB0WkhvM1hTVnIrbw==",
+    "category": "Smartwatches",
     "price": 399.99,
-    "brandName": "Apple",
-    "Productdescription": "Brighter Always-On Retina display with a durable, crack-resistant front crystal Get deep insights into your physical and mental health including heart rate, Footnote 1 mood, and more With advanced workout metrics and views The all-new S9 SiP powers a magical new way to use your watch without touching the screen Innovative safety features including Emergency SOS,  footnote  2 Fall Detection, and Crash Detection",
-   
+    "brand": "Apple",
+    "description": "Brighter Always-On Retina display with a durable, crack-resistant front crystal Get deep insights into your physical and mental health including heart rate, Footnote 1 mood, and more With advanced workout metrics and views The all-new S9 SiP powers a magical new way to use your watch without touching the screen Innovative safety features including Emergency SOS,  footnote  2 Fall Detection, and Crash Detection",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1373,22 +870,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Mi Watch 5",
-    "productImage": "https://example.com/mi-watch-5.jpg",
-    "productCategory": "Smartwatches",
+    "name": "Mi Watch 5",
+    "image": "https://example.com/mi-watch-5.jpg",
+    "category": "Smartwatches",
     "price": 199.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch 5 is a smartwatch developed by Xiaomi. It features a sleek design, a vibrant AMOLED display, and a wide range of health and fitness tracking features. With its long battery life and advanced sensors, the Mi Watch 5 is perfect for everyday use.",
-  
+    "brand": "Xiaomi",
+    "description": "The Mi Watch 5 is a smartwatch developed by Xiaomi. It features a sleek design, a vibrant AMOLED display, and a wide range of health and fitness tracking features. With its long battery life and advanced sensors, the Mi Watch 5 is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1409,22 +904,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Pro 2023 14-inch",
-    "productImage": "https://www.digitec.ch/im/Files/7/4/0/5/6/2/2/0/1.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Laptops",
+    "name": "MacBook Pro 2023 14-inch",
+    "image": "https://www.digitec.ch/im/Files/7/4/0/5/6/2/2/0/1.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
-   
+    "brand": "Apple",
+    "description": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1445,22 +938,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Pro 2023 16-inch",
-    "productImage": "https://www.digitec.ch/im/Files/7/4/0/5/6/2/4/1/1.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Laptops",
+    "name": "MacBook Pro 2023 16-inch",
+    "image": "https://www.digitec.ch/im/Files/7/4/0/5/6/2/4/1/1.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
-  
+    "brand": "Apple",
+    "description": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1481,58 +972,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Air – 2023",
-    "productImage": "https://static.digitecgalaxus.ch/productimages/3/8/0/0/4/7/3/1/0/4/0/9/2/5/9/7/1/0/2/877e3916-62fc-4475-bb32-10d65f291fdf.jpg",
-    "productCategory": "Laptops",
+    "name": "MacBook Air – 2023",
+    "image": "https://static.digitecgalaxus.ch/images/3/8/0/0/4/7/3/1/0/4/0/9/2/5/9/7/1/0/2/877e3916-62fc-4475-bb32-10d65f291fdf.jpg",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
-   
-  "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-  {
-    "productName": "MacBook Pro – 2022",
-    "productImage": "https://www.digitec.ch/im/Files/7/1/2/6/9/3/8/3/MacBook_Pro_13_in_Silver_PDP_Image_Position-1__WWEN.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Laptops",
-    "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
-   
+    "brand": "Apple",
+    "description": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1553,22 +1006,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Air – 2022",
-    "productImage": "https://www.digitec.ch/im/Files/6/4/3/1/7/4/8/4/midnight.JPG?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Laptops",
+    "name": "MacBook Pro – 2022",
+    "image": "https://www.digitec.ch/im/Files/7/1/2/6/9/3/8/3/MacBook_Pro_13_in_Silver_PDP_Image_Position-1__WWEN.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
-    
+    "brand": "Apple",
+    "description": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1589,22 +1040,54 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "iMac Pro",
-    "productImage": "https://www.digitec.ch/im/Files/3/6/7/4/1/0/2/2/WWEN_iMac_Pro_PDP_Image_Position-1.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
-    "productCategory": "Desktops",
+    "name": "MacBook Air – 2022",
+    "image": "https://www.digitec.ch/im/Files/6/4/3/1/7/4/8/4/midnight.JPG?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Laptops",
+    "price": 2399.99,
+    "brand": "Apple",
+    "description": "The MacBook Pro 2023 is the latest flagship laptop from Apple. It features a powerful M2 chip, a stunning Retina display, and an improved Magic Keyboard. With its sleek design and long battery life, the MacBook Pro 2023 is perfect for professionals and power users.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "iMac Pro",
+    "image": "https://www.digitec.ch/im/Files/3/6/7/4/1/0/2/2/WWEN_iMac_Pro_PDP_Image_Position-1.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Desktops",
     "price": 2999.99,
-    "brandName": "Apple",
-    "Productdescription": "The iMac Pro is a powerful all-in-one desktop computer from Apple. It features a stunning 27-inch Retina 5K display, a powerful Intel Xeon processor, and advanced graphics options. With its sleek design and workstation-class performance, the iMac Pro is perfect for professionals and creative users.",
-    
+    "brand": "Apple",
+    "description": "The iMac Pro is a powerful all-in-one desktop computer from Apple. It features a stunning 27-inch Retina 5K display, a powerful Intel Xeon processor, and advanced graphics options. With its sleek design and workstation-class performance, the iMac Pro is perfect for professionals and creative users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1625,22 +1108,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Apple polishing cloth",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MW693_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1711736031009",
-    "productCategory": "Other",
+    "name": "Apple polishing cloth",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MW693_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1711736031009",
+    "category": "Other",
     "price": 2999.99,
-    "brandName": "Apple",
-    "Productdescription": "Welcome to the future of cleanliness! The Apple Polishing Cloth isn't just a cloth - it's a technological marvel that will change the way you clean your screens forever. Experience the pure essence of innovation and design in a piece of cloth that only Apple could have developed. Superior fabric technology Why bother with ordinary microfiber cloths when you can have the Apple Polishing Cloth? Made from a special, secret fiber developed using cutting-edge quantum mechanics and space science, this cloth guarantees a cleaning experience so flawless that even your screen will shine with delight. Seamless integration Thanks to its seamless integration into the Apple ecosystem, the polishing cloth naturally works best with other Apple products. Clean your MacBook, iPad or iPhone with a precision that will put your friends with their inferior cloths to shame. And don't worry - the cloth is also fully compatible with the latest iOS version. Revolutionary user experience Forget traditional cleaning methods based on strenuous scrubbing and painful hand placement. The Apple Polishing Cloth only needs a gentle touch and your devices are sparkling clean. This cloth gives you a user experience so effortless and intuitive, you'll wonder how you ever lived without it. Award-winning packaging In true Apple fashion, the polishing cloth comes in packaging so elegant and premium that it deserves pride of place in your living room. Unpacking it will be an experience that will increase the anticipation of cleaning your devices immeasurably. A bargain for connoisseurs With a price that makes a clear statement, the Apple polishing cloth is not just a cleaning tool, but a lifestyle accessory. Who needs cheap rival products when you can treat yourself to the exclusivity and status of the Apple Polishing Cloth? Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready to polish your world as only Apple can.",
-    
+    "brand": "Apple",
+    "description": "Welcome to the future of cleanliness! The Apple Polishing Cloth isn't just a cloth - it's a technological marvel that will change the way you clean your screens forever. Experience the pure essence of innovation and design in a piece of cloth that only Apple could have developed. Superior fabric technology Why bother with ordinary microfiber cloths when you can have the Apple Polishing Cloth? Made from a special, secret fiber developed using cutting-edge quantum mechanics and space science, this cloth guarantees a cleaning experience so flawless that even your screen will shine with delight. Seamless integration Thanks to its seamless integration into the Apple ecosystem, the polishing cloth naturally works best with other Apple products. Clean your MacBook, iPad or iPhone with a precision that will put your friends with their inferior cloths to shame. And don't worry - the cloth is also fully compatible with the latest iOS version. Revolutionary user experience Forget traditional cleaning methods based on strenuous scrubbing and painful hand placement. The Apple Polishing Cloth only needs a gentle touch and your devices are sparkling clean. This cloth gives you a user experience so effortless and intuitive, you'll wonder how you ever lived without it. Award-winning packaging In true Apple fashion, the polishing cloth comes in packaging so elegant and premium that it deserves pride of place in your living room. Unpacking it will be an experience that will increase the anticipation of cleaning your devices immeasurably. A bargain for connoisseurs With a price that makes a clear statement, the Apple polishing cloth is not just a cleaning tool, but a lifestyle accessory. Who needs cheap rival products when you can treat yourself to the exclusivity and status of the Apple Polishing Cloth? Experience the cleaning revolution. Experience the Apple Polishing Cloth. Ready to polish your world as only Apple can.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1661,22 +1142,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Mi 12",
-    "productImage": "https://example.com/mi-12.jpg",
-    "productCategory": "Smartphones",
+    "name": "Mi 12",
+    "image": "https://example.com/mi-12.jpg",
+    "category": "Smartphones",
     "price": 899.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi 12 is a flagship smartphone from Xiaomi. It features a stunning display, a powerful Snapdragon processor, and a versatile camera system. With its sleek design and long battery life, the Mi 12 offers a premium smartphone experience at an affordable price.",
-   
+    "brand": "Xiaomi",
+    "description": "The Mi 12 is a flagship smartphone from Xiaomi. It features a stunning display, a powerful Snapdragon processor, and a versatile camera system. With its sleek design and long battery life, the Mi 12 offers a premium smartphone experience at an affordable price.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1697,22 +1176,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "iPad Air 5",
-    "productImage": "https://example.com/ipad-air-5.jpg",
-    "productCategory": "Tablets",
+    "name": "iPad Air 5",
+    "image": "https://example.com/ipad-air-5.jpg",
+    "category": "Tablets",
     "price": 699.99,
-    "brandName": "Apple",
-    "Productdescription": "The iPad Air 5 is the latest mid-range tablet from Apple. It features a stunning Liquid Retina display, a powerful A16 chip, and support for the Apple Pencil 3. With its sleek design and affordable price, the iPad Air 5 is perfect for students and casual users.",
-   
+    "brand": "Apple",
+    "description": "The iPad Air 5 is the latest mid-range tablet from Apple. It features a stunning Liquid Retina display, a powerful A16 chip, and support for the Apple Pencil 3. With its sleek design and affordable price, the iPad Air 5 is perfect for students and casual users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1733,22 +1210,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Mi Laptop Pro",
-    "productImage": "https://example.com/mi-laptop-pro.jpg",
-    "productCategory": "Laptops",
+    "name": "Mi Laptop Pro",
+    "image": "https://example.com/mi-laptop-pro.jpg",
+    "category": "Laptops",
     "price": 1299.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Laptop Pro is a high-performance laptop from Xiaomi. It features a stunning display, a powerful Ryzen processor, and a sleek aluminum design. With its long battery life and affordable price, the Mi Laptop Pro is perfect for professionals and students alike.",
-   
+    "brand": "Xiaomi",
+    "description": "The Mi Laptop Pro is a high-performance laptop from Xiaomi. It features a stunning display, a powerful Ryzen processor, and a sleek aluminum design. With its long battery life and affordable price, the Mi Laptop Pro is perfect for professionals and students alike.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1769,22 +1244,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Mi Watch Lite",
-    "productImage": "https://example.com/mi-watch-lite.jpg",
-    "productCategory": "Smartwatches",
+    "name": "Mi Watch Lite",
+    "image": "https://example.com/mi-watch-lite.jpg",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-  
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
-     {
+      {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1805,22 +1278,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 13T Pro",
-    "productImage": "https://mi-store.ch/media/fe/0e/25/1695703467/pn103322-pn103325-xiaomi-13t-pro-grun-1-.webp",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 13T Pro",
+    "image": "https://mi-store.ch/media/fe/0e/25/1695703467/pn103322-pn103325-xiaomi-13t-pro-grun-1-.webp",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-   
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1841,22 +1312,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 14",
-    "productImage": "https://i02.appmifile.com/976_operatorx_operatorx_opx/23/02/2024/c4866f7bdd20c6ed7acf6082417dd340.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 14",
+    "image": "https://i02.appmifile.com/976_operatorx_operatorx_opx/23/02/2024/c4866f7bdd20c6ed7acf6082417dd340.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1877,22 +1346,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 14 Ultra",
-    "productImage": "https://i02.appmifile.com/91_operatorx_operatorx_opx/24/02/2024/4eafcd40186edde466860564f9ff71e9.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 14 Ultra",
+    "image": "https://i02.appmifile.com/91_operatorx_operatorx_opx/24/02/2024/4eafcd40186edde466860564f9ff71e9.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-   
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1913,22 +1380,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 13T",
-    "productImage": "https://i02.appmifile.com/240_operatorx_operatorx_opx/26/09/2023/ee07297cdf24071db7f6846d9c4727bb.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 13T",
+    "image": "https://i02.appmifile.com/240_operatorx_operatorx_opx/26/09/2023/ee07297cdf24071db7f6846d9c4727bb.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1949,22 +1414,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 13 Pro",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677427639.01867146.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 13 Pro",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677427639.01867146.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -1985,22 +1448,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 13",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677427681.17943185.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 13",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677427681.17943185.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2021,22 +1482,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12T Pro",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666598561.94078322.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12T Pro",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666598561.94078322.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2057,22 +1516,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12S Ultra",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666613862.55361324.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12S Ultra",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666613862.55361324.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2093,22 +1550,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12T",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666598531.28686121.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12T",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666598531.28686121.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2129,22 +1584,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12 Lite",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666343709.42474042.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12 Lite",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666343709.42474042.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2165,22 +1618,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344446.10091683.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344446.10091683.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2201,22 +1652,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12 Pro",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344481.20013313.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12 Pro",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344481.20013313.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2237,22 +1686,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12 X",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344880.31315118.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12 X",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666344880.31315118.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2273,22 +1720,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi 12 Lite",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666343709.42474042.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi 12 Lite",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1666343709.42474042.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2309,22 +1754,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi 13",
-    "productImage": "https://i02.appmifile.com/580_operatorx_operatorx_opx/05/06/2024/b6ab95ebbd9fb402b423ba9963522a80.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Redmi 13",
+    "image": "https://i02.appmifile.com/580_operatorx_operatorx_opx/05/06/2024/b6ab95ebbd9fb402b423ba9963522a80.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2345,22 +1788,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi A3x",
-    "productImage": "https://i02.appmifile.com/795_operatorx_operatorx_opx/03/06/2024/9922b194b401c253b72b91ad36b0ec31.png?thumb=1&w=1000&f=webp&q=85g",
-    "productCategory": "Smartwatches",
+    "name": "Redmi A3x",
+    "image": "https://i02.appmifile.com/795_operatorx_operatorx_opx/03/06/2024/9922b194b401c253b72b91ad36b0ec31.png?thumb=1&w=1000&f=webp&q=85g",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2381,22 +1822,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi A3",
-    "productImage": "https://i02.appmifile.com/686_operatorx_operatorx_opx/23/02/2024/a13c444dfc0b5db4ecae1e9d0ba10326.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Redmi A3",
+    "image": "https://i02.appmifile.com/686_operatorx_operatorx_opx/23/02/2024/a13c444dfc0b5db4ecae1e9d0ba10326.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2417,22 +1856,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi Note 13 Pro 5G",
-    "productImage": "https://i02.appmifile.com/855_operatorx_operatorx_opx/11/01/2024/4fad3c8039e37a4fa97f8be0462e88e5.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Redmi Note 13 Pro 5G",
+    "image": "https://i02.appmifile.com/855_operatorx_operatorx_opx/11/01/2024/4fad3c8039e37a4fa97f8be0462e88e5.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2453,22 +1890,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi Note 13 Pro",
-    "productImage": "https://i02.appmifile.com/13_operatorx_operatorx_opx/11/01/2024/25da829b5997ff8aea28af388df3b8df.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Redmi Note 13 Pro",
+    "image": "https://i02.appmifile.com/13_operatorx_operatorx_opx/11/01/2024/25da829b5997ff8aea28af388df3b8df.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2489,22 +1924,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi Note 13 5G",
-    "productImage": "https://i02.appmifile.com/463_operatorx_operatorx_opx/11/01/2024/e02e51cd6efb5f2282e6921128b2618a.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Redmi Note 13 5G",
+    "image": "https://i02.appmifile.com/463_operatorx_operatorx_opx/11/01/2024/e02e51cd6efb5f2282e6921128b2618a.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2525,22 +1958,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi Note 13",
-    "productImage": "https://i02.appmifile.com/994_operatorx_operatorx_opx/11/01/2024/72a71b312950178179eeb71425ef8def.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Redmi Note 13",
+    "image": "https://i02.appmifile.com/994_operatorx_operatorx_opx/11/01/2024/72a71b312950178179eeb71425ef8def.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2561,22 +1992,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi Watch 2",
-    "productImage": "https://i02.appmifile.com/416_operatorx_operatorx_opx/24/02/2024/c324bf4f471fb03d30d89b428886a3b6.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi Watch 2",
+    "image": "https://i02.appmifile.com/416_operatorx_operatorx_opx/24/02/2024/c324bf4f471fb03d30d89b428886a3b6.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2597,22 +2026,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi Smart Band 8 Pro",
-    "productImage": "https://i02.appmifile.com/691_operatorx_operatorx_opx/23/02/2024/af5041d6228d2b380d9b37d18e3cdbad.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi Smart Band 8 Pro",
+    "image": "https://i02.appmifile.com/691_operatorx_operatorx_opx/23/02/2024/af5041d6228d2b380d9b37d18e3cdbad.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
-  "comments": [
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2633,22 +2060,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi Watch S3",
-    "productImage": "https://i02.appmifile.com/330_operatorx_operatorx_opx/23/02/2024/f9510abb1a58283b4646d3aab11db03c.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi Watch S3",
+    "image": "https://i02.appmifile.com/330_operatorx_operatorx_opx/23/02/2024/f9510abb1a58283b4646d3aab11db03c.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2669,22 +2094,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi Watch 4",
-    "productImage": "https://i02.appmifile.com/838_operatorx_operatorx_opx/11/01/2024/202caa28b52da75dbdcdd13564b89913.png",
-    "productCategory": "Smartwatches",
+    "name": "Redmi Watch 4",
+    "image": "https://i02.appmifile.com/838_operatorx_operatorx_opx/11/01/2024/202caa28b52da75dbdcdd13564b89913.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2705,22 +2128,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi Watch 2 Pro",
-    "productImage": "https://i02.appmifile.com/651_operatorx_operatorx_opx/30/11/2023/d9a896d3b8819d3b5e979745ceae8e48.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi Watch 2 Pro",
+    "image": "https://i02.appmifile.com/651_operatorx_operatorx_opx/30/11/2023/d9a896d3b8819d3b5e979745ceae8e48.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2741,22 +2162,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi Smart Band 8 Pro" ,
-    "productImage": "https://i02.appmifile.com/797_operatorx_operatorx_opx/26/09/2023/b85b88afff6b9fb37e558cb6f3d261cd.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi Smart Band 8 Pro",
+    "image": "https://i02.appmifile.com/797_operatorx_operatorx_opx/26/09/2023/b85b88afff6b9fb37e558cb6f3d261cd.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2777,22 +2196,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Xiaomi Smart Band 8 Active",
-    "productImage": "https://i02.appmifile.com/143_operatorx_operatorx_opx/26/09/2023/11b0085f43a04c2128e316d4a18ef93c.png",
-    "productCategory": "Smartwatches",
+    "name": "Xiaomi Smart Band 8 Active",
+    "image": "https://i02.appmifile.com/143_operatorx_operatorx_opx/26/09/2023/11b0085f43a04c2128e316d4a18ef93c.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2813,22 +2230,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi Watch 3 Active",
-    "productImage": "https://i02.appmifile.com/133_operatorx_operatorx_opx/25/06/2023/af1cc31c5b732c0ce504f440373772e2.png",
-    "productCategory": "Smartwatches",
+    "name": "Redmi Watch 3 Active",
+    "image": "https://i02.appmifile.com/133_operatorx_operatorx_opx/25/06/2023/af1cc31c5b732c0ce504f440373772e2.png",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2849,22 +2264,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Redmi Note 13",
-    "productImage": "https://i02.appmifile.com/994_operatorx_operatorx_opx/11/01/2024/72a71b312950178179eeb71425ef8def.png?thumb=1&w=1000&f=webp&q=85",
-    "productCategory": "Smartwatches",
+    "name": "Redmi Note 13",
+    "image": "https://i02.appmifile.com/994_operatorx_operatorx_opx/11/01/2024/72a71b312950178179eeb71425ef8def.png?thumb=1&w=1000&f=webp&q=85",
+    "category": "Smartwatches",
     "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -2885,131 +2298,122 @@
         "rating": 4.4
       }
     ]
-
-},
-       {
-    "productName": "Redmi Watch 3",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1679574223.38469571.png",
-    "productCategory": "Smartwatches",
-    "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
-    "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-       {
-    "productName": "Xiaomi Watch S1 Pro",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677429733.05265062.png",
-    "productCategory": "Smartwatches",
-    "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
-    "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-       {
-    "productName": "Redmi Smart Band 2",
-    "productImage": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1674993740.12319164.png",
-    "productCategory": "Smartwatches",
-    "price": 79.99,
-    "brandName": "Xiaomi",
-    "Productdescription": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
-    
-    "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-
+  },
   {
-    "productName": "Samsung Galaxy S22 Ultra",
-    "productImage": "https://example.com/samsung-galaxy-s22-ultra.jpg",
-    "productCategory": "Smartphones",
+    "name": "Redmi Watch 3",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1679574223.38469571.png",
+    "category": "Smartwatches",
+    "price": 79.99,
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Xiaomi Watch S1 Pro",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1677429733.05265062.png",
+    "category": "Smartwatches",
+    "price": 79.99,
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Redmi Smart Band 2",
+    "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1674993740.12319164.png",
+    "category": "Smartwatches",
+    "price": 79.99,
+    "brand": "Xiaomi",
+    "description": "The Mi Watch Lite is an affordable smartwatch from Xiaomi. It features a lightweight design, a colorful display, and a wide range of fitness tracking features. With its long battery life and affordable price, the Mi Watch Lite is perfect for everyday use.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S22 Ultra",
+    "image": "https://example.com/samsung-galaxy-s22-ultra.jpg",
+    "category": "Smartphones",
     "price": 1299.99,
-    "brandName": "Samsung",
-    "Productdescription": "The Samsung Galaxy S22 Ultra is the latest flagship smartphone from Samsung. It features a stunning Dynamic AMOLED display, a powerful Exynos processor, and an advanced camera system. With its sleek design and advanced features, the Galaxy S22 Ultra is the ultimate smartphone for enthusiasts and power users.",
-    
+    "brand": "Samsung",
+    "description": "The Samsung Galaxy S22 Ultra is the latest flagship smartphone from Samsung. It features a stunning Dynamic AMOLED display, a powerful Exynos processor, and an advanced camera system. With its sleek design and advanced features, the Galaxy S22 Ultra is the ultimate smartphone for enthusiasts and power users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3030,22 +2434,190 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Sony Xperia Pro III",
-    "productImage": "https://example.com/sony-xperia-pro-iii.jpg",
-    "productCategory": "Smartphones",
+    "name": "Samsung Galaxy A55",
+    "image": "https://www.digitec.ch/im/productimages/3/8/4/2/3/8/1/8/5/1/9/8/1/1/9/9/0/9/2/f53709b9-8bee-42c0-a65f-1c783469cb7d.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 1299.99,
+    "brand": "Samsung",
+    "description": "The Samsung Galaxy A55 ",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "image": "https://www.galaxus.ch/im/productimages/3/3/8/8/0/8/9/6/3/3/9/9/7/8/9/4/5/cfdbf05f-9047-42e8-96cb-8ef7d4b26866.png?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 1299.99,
+    "brand": "Samsung",
+    "description": "The Samsung Galaxy A55 ",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "image": "https://www.digitec.ch/im/productimages/6/5/4/7/2/1/7/7/3/8/0/9/4/3/3/8/2/0/7/c8e83087-d38b-4b20-89e8-e20c7dbf3c8a.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 879.00,
+    "brand": "Samsung",
+    "description": "The Samsung Galaxy A55 ",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy A54",
+    "image": "https://www.galaxus.ch/im/productimages/5/5/9/8/6/3/8/4/3/4/0/6/9/3/2/3/7/3/4/106f8d2e-f913-4469-b8af-2dbfb20dcf6a_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 1299.99,
+    "brand": "Samsung",
+    "description": "The Samsung Galaxy A55 ",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "image": "https://www.digitec.ch/im/productimages/4/2/3/0/0/2/6/1/5/4/9/7/4/1/5/2/9/8/3/e316ff6e-af7e-4954-9381-35caaeee3d83.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Smartphones",
+    "price": 600.00,
+    "brand": "Samsung",
+    "description": "The Samsung Galaxy A55 ",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Sony Xperia Pro III",
+    "image": "https://example.com/sony-xperia-pro-iii.jpg",
+    "category": "Smartphones",
     "price": 1499.99,
-    "brandName": "Sony",
-    "Productdescription": "The Sony Xperia Pro III is a premium smartphone from Sony. It features a stunning 4K OLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and professional-grade features, the Xperia Pro III is perfect for photographers, videographers, and content creators.",
-    
+    "brand": "Sony",
+    "description": "The Sony Xperia Pro III is a premium smartphone from Sony. It features a stunning 4K OLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and professional-grade features, the Xperia Pro III is perfect for photographers, videographers, and content creators.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3066,22 +2638,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Dell XPS 17",
-    "productImage": "https://example.com/dell-xps-17.jpg",
-    "productCategory": "Laptops",
+    "name": "Dell XPS 17",
+    "image": "https://example.com/dell-xps-17.jpg",
+    "category": "Laptops",
     "price": 2499.99,
-    "brandName": "Dell",
-    "Productdescription": "The Dell XPS 17 is a high-performance laptop from Dell. It features a stunning 17-inch 4K display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the XPS 17 is perfect for professionals and content creators.",
-    
+    "brand": "Dell",
+    "description": "The Dell XPS 17 is a high-performance laptop from Dell. It features a stunning 17-inch 4K display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the XPS 17 is perfect for professionals and content creators.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3102,22 +2672,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "LG UltraFine 5K Display",
-    "productImage": "https://example.com/lg-ultrafine-5k-display.jpg",
-    "productCategory": "Monitors",
+    "name": "LG UltraFine 5K Display",
+    "image": "https://example.com/lg-ultrafine-5k-display.jpg",
+    "category": "Monitors",
     "price": 1299.99,
-    "brandName": "LG",
-    "Productdescription": "The LG UltraFine 5K Display is a high-resolution monitor from LG. It features a stunning 5K resolution, a wide color gamut, and Thunderbolt 3 connectivity. With its sleek design and professional-grade features, the UltraFine 5K Display is perfect for professionals and creative users.",
-  
+    "brand": "LG",
+    "description": "The LG UltraFine 5K Display is a high-resolution monitor from LG. It features a stunning 5K resolution, a wide color gamut, and Thunderbolt 3 connectivity. With its sleek design and professional-grade features, the UltraFine 5K Display is perfect for professionals and creative users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3138,22 +2706,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Huawei MateBook X Pro",
-    "productImage": "https://example.com/huawei-matebook-x-pro.jpg",
-    "productCategory": "Laptops",
+    "name": "Huawei MateBook X Pro",
+    "image": "https://example.com/huawei-matebook-x-pro.jpg",
+    "category": "Laptops",
     "price": 1499.99,
-    "brandName": "Huawei",
-    "Productdescription": "The Huawei MateBook X Pro is a premium laptop from Huawei. It features a stunning 3K display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the MateBook X Pro is perfect for professionals and power users.",
-    
+    "brand": "Huawei",
+    "description": "The Huawei MateBook X Pro is a premium laptop from Huawei. It features a stunning 3K display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the MateBook X Pro is perfect for professionals and power users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3174,22 +2740,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "OnePlus 10 Pro",
-    "productImage": "https://example.com/oneplus-10-pro.jpg",
-    "productCategory": "Smartphones",
+    "name": "OnePlus 10 Pro",
+    "image": "https://example.com/oneplus-10-pro.jpg",
+    "category": "Smartphones",
     "price": 999.99,
-    "brandName": "OnePlus",
-    "Productdescription": "The OnePlus 10 Pro is a flagship smartphone from OnePlus. It features a stunning Fluid AMOLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and premium features, the OnePlus 10 Pro offers a premium smartphone experience.",
-    
+    "brand": "OnePlus",
+    "description": "The OnePlus 10 Pro is a flagship smartphone from OnePlus. It features a stunning Fluid AMOLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and premium features, the OnePlus 10 Pro offers a premium smartphone experience.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3210,22 +2774,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Microsoft Surface Laptop Studio",
-    "productImage": "https://example.com/microsoft-surface-laptop-studio.jpg",
-    "productCategory": "Laptops",
+    "name": "Microsoft Surface Laptop Studio",
+    "image": "https://example.com/microsoft-surface-laptop-studio.jpg",
+    "category": "Laptops",
     "price": 1799.99,
-    "brandName": "Microsoft",
-    "Productdescription": "The Microsoft Surface Laptop Studio is a versatile laptop from Microsoft. It features a stunning PixelSense display, a powerful Intel Core processor, and a unique 2-in-1 design that allows it to be used as a laptop or a tablet. With its sleek design and professional-grade features, the Surface Laptop Studio is perfect for professionals and creative users.",
-   
+    "brand": "Microsoft",
+    "description": "The Microsoft Surface Laptop Studio is a versatile laptop from Microsoft. It features a stunning PixelSense display, a powerful Intel Core processor, and a unique 2-in-1 design that allows it to be used as a laptop or a tablet. With its sleek design and professional-grade features, the Surface Laptop Studio is perfect for professionals and creative users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3246,22 +2808,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Lenovo ThinkPad X1 Carbon Gen 9",
-    "productImage": "https://example.com/lenovo-thinkpad-x1-carbon-gen-9.jpg",
-    "productCategory": "Laptops",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 9",
+    "image": "https://example.com/lenovo-thinkpad-x1-carbon-gen-9.jpg",
+    "category": "Laptops",
     "price": 1699.99,
-    "brandName": "Lenovo",
-    "Productdescription": "The Lenovo ThinkPad X1 Carbon Gen 9 is a premium laptop from Lenovo. It features a stunning 4K display, a powerful Intel Core processor, and a sleek carbon fiber design. With its long battery life and professional-grade features, the ThinkPad X1 Carbon Gen 9 is perfect for professionals and business users.",
-  
+    "brand": "Lenovo",
+    "description": "The Lenovo ThinkPad X1 Carbon Gen 9 is a premium laptop from Lenovo. It features a stunning 4K display, a powerful Intel Core processor, and a sleek carbon fiber design. With its long battery life and professional-grade features, the ThinkPad X1 Carbon Gen 9 is perfect for professionals and business users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3282,22 +2842,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Google Pixel 6 Pro",
-    "productImage": "https://example.com/google-pixel-6-pro.jpg",
-    "productCategory": "Smartphones",
+    "name": "Google Pixel 6 Pro",
+    "image": "https://example.com/google-pixel-6-pro.jpg",
+    "category": "Smartphones",
     "price": 899.99,
-    "brandName": "Google",
-    "Productdescription": "The Google Pixel 6 Pro is a flagship smartphone from Google. It features a stunning OLED display, a powerful Tensor processor, and an advanced camera system with enhanced computational photography capabilities. With its sleek design and stock Android experience, the Pixel 6 Pro offers a premium smartphone experience.",
-  
+    "brand": "Google",
+    "description": "The Google Pixel 6 Pro is a flagship smartphone from Google. It features a stunning OLED display, a powerful Tensor processor, and an advanced camera system with enhanced computational photography capabilities. With its sleek design and stock Android experience, the Pixel 6 Pro offers a premium smartphone experience.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3318,22 +2876,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "ASUS ROG Zephyrus G14",
-    "productImage": "https://example.com/asus-rog-zephyrus-g14.jpg",
-    "productCategory": "Laptops",
+    "name": "ASUS ROG Zephyrus G14",
+    "image": "https://example.com/asus-rog-zephyrus-g14.jpg",
+    "category": "Laptops",
     "price": 1499.99,
-    "brandName": "ASUS",
-    "Productdescription": "The ASUS ROG Zephyrus G14 is a high-performance gaming laptop from ASUS. It features a stunning 14-inch display, a powerful AMD Ryzen processor, and NVIDIA GeForce RTX graphics. With its sleek design and gaming-focused features, the ROG Zephyrus G14 is perfect for gamers and enthusiasts.",
-    
+    "brand": "ASUS",
+    "description": "The ASUS ROG Zephyrus G14 is a high-performance gaming laptop from ASUS. It features a stunning 14-inch display, a powerful AMD Ryzen processor, and NVIDIA GeForce RTX graphics. With its sleek design and gaming-focused features, the ROG Zephyrus G14 is perfect for gamers and enthusiasts.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3354,22 +2910,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Microsoft Surface Laptop 5",
-    "productImage": "https://example.com/microsoft-surface-laptop-5.jpg",
-    "productCategory": "Laptops",
+    "name": "Microsoft Surface Laptop 5",
+    "image": "https://example.com/microsoft-surface-laptop-5.jpg",
+    "category": "Laptops",
     "price": 1499.99,
-    "brandName": "Microsoft",
-    "Productdescription": "The Microsoft Surface Laptop 5 is a premium laptop from Microsoft. It features a stunning PixelSense display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the Surface Laptop 5 is perfect for professionals and students alike.",
-  
+    "brand": "Microsoft",
+    "description": "The Microsoft Surface Laptop 5 is a premium laptop from Microsoft. It features a stunning PixelSense display, a powerful Intel Core processor, and a sleek aluminum design. With its long battery life and professional-grade features, the Surface Laptop 5 is perfect for professionals and students alike.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3390,22 +2944,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Lenovo ThinkPad X1 Carbon",
-    "productImage": "https://example.com/lenovo-thinkpad-x1-carbon.jpg",
-    "productCategory": "Laptops",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "image": "https://example.com/lenovo-thinkpad-x1-carbon.jpg",
+    "category": "Laptops",
     "price": 1799.99,
-    "brandName": "Lenovo",
-    "Productdescription": "The Lenovo ThinkPad X1 Carbon is a high-performance laptop from Lenovo. It features a stunning 4K display, a powerful Intel Core processor, and a durable carbon fiber design. With its long battery life and business-grade features, the ThinkPad X1 Carbon is perfect for professionals and business users.",
- 
+    "brand": "Lenovo",
+    "description": "The Lenovo ThinkPad X1 Carbon is a high-performance laptop from Lenovo. It features a stunning 4K display, a powerful Intel Core processor, and a durable carbon fiber design. With its long battery life and business-grade features, the ThinkPad X1 Carbon is perfect for professionals and business users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3426,22 +2978,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Google Pixel 7 Pro",
-    "productImage": "https://example.com/google-pixel-7-pro.jpg",
-    "productCategory": "Smartphones",
+    "name": "Google Pixel 7 Pro",
+    "image": "https://example.com/google-pixel-7-pro.jpg",
+    "category": "Smartphones",
     "price": 999.99,
-    "brandName": "Google",
-    "Productdescription": "The Google Pixel 7 Pro is a flagship smartphone from Google. It features a stunning OLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and pure Android experience, the Pixel 7 Pro offers a premium smartphone experience.",
-  
+    "brand": "Google",
+    "description": "The Google Pixel 7 Pro is a flagship smartphone from Google. It features a stunning OLED display, a powerful Snapdragon processor, and an advanced camera system. With its sleek design and pure Android experience, the Pixel 7 Pro offers a premium smartphone experience.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3462,22 +3012,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Asus ZenWatch 4",
-    "productImage": "https://example.com/asus-zenwatch-4.jpg",
-    "productCategory": "Smartwatches",
+    "name": "Asus ZenWatch 4",
+    "image": "https://example.com/asus-zenwatch-4.jpg",
+    "category": "Smartwatches",
     "price": 299.99,
-    "brandName": "Asus",
-    "Productdescription": "The Asus ZenWatch 4 is a premium smartwatch from Asus. It features a stunning AMOLED display, a wide range of health and fitness tracking features, and a sleek design. With its long battery life and advanced features, the ZenWatch 4 is perfect for fitness enthusiasts and tech-savvy users.",
-    
+    "brand": "Asus",
+    "description": "The Asus ZenWatch 4 is a premium smartwatch from Asus. It features a stunning AMOLED display, a wide range of health and fitness tracking features, and a sleek design. With its long battery life and advanced features, the ZenWatch 4 is perfect for fitness enthusiasts and tech-savvy users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3498,22 +3046,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "HP Spectre x360",
-    "productImage": "https://example.com/hp-spectre-x360.jpg",
-    "productCategory": "Laptops",
+    "name": "HP Spectre x360",
+    "image": "https://example.com/hp-spectre-x360.jpg",
+    "category": "Laptops",
     "price": 1899.99,
-    "brandName": "HP",
-    "Productdescription": "The HP Spectre x360 is a premium 2-in-1 laptop from HP. It features a stunning 4K OLED display, a powerful Intel Core processor, and a versatile design. With its long battery life and convertible form factor, the Spectre x360 is perfect for professionals and creative users.",
-    
+    "brand": "HP",
+    "description": "The HP Spectre x360 is a premium 2-in-1 laptop from HP. It features a stunning 4K OLED display, a powerful Intel Core processor, and a versatile design. With its long battery life and convertible form factor, the Spectre x360 is perfect for professionals and creative users.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3534,22 +3080,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Air 13-inch with M3 chip",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-m3-digitalmat-gallery-1-202402?wid=728&hei=666&fmt=png-alpha&.v=1707263990389",
-    "productCategory": "Laptops",
+    "name": "MacBook Air 13-inch with M3 chip",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-m3-digitalmat-gallery-1-202402?wid=728&hei=666&fmt=png-alpha&.v=1707263990389",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
-    
+    "brand": "Apple",
+    "description": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3570,22 +3114,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Air 15-inch with M3 chip",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-m3-digitalmat-gallery-1-202402?wid=728&hei=666&fmt=png-alpha&.v=1707264003711",
-    "productCategory": "Laptops",
+    "name": "MacBook Air 15-inch with M3 chip",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-mba15-m3-midnight-202405?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1715625049542",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
-    
+    "brand": "Apple",
+    "description": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3606,22 +3148,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Pro 14-inch",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-14-digitalmat-gallery-1-202310?wid=728&hei=666&fmt=png-alpha&.v=169697152262",
-    "productCategory": "Laptops",
+    "name": "MacBook Pro 14-inch",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-mbp14-m3-silver-202402?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1708968079323",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "14-inch Liquid Retina XDR display Two Thunderbolt / USB 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port Magic Keyboard with Touch ID Force Touch trackpad 70W USB-C Power Adapter",
-    
+    "brand": "Apple",
+    "description": "14-inch Liquid Retina XDR display Two Thunderbolt / USB 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port Magic Keyboard with Touch ID Force Touch trackpad 70W USB-C Power Adapter",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3642,22 +3182,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "MacBook Pro 16-inch",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-16-digitalmat-gallery-1-202310?wid=728&hei=666&fmt=jpeg&qlt=90&.v=1696971483270",
-    "productCategory": "Laptops",
+    "name": "MacBook Pro 16-inch",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-mbp16-m3-max-pro-spaceblack-202402?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1709175741917",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "16-inch Liquid Retina XDR display Three Thunderbolt 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port Magic Keyboard with Touch ID Force Touch trackpad 140W USB-C Power Adapter",
-    
+    "brand": "Apple",
+    "description": "16-inch Liquid Retina XDR display Three Thunderbolt 4 ports, HDMI port, SDXC card slot, headphone jack, MagSafe 3 port Magic Keyboard with Touch ID Force Touch trackpad 140W USB-C Power Adapter",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3678,22 +3216,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "iMac",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
-    "productCategory": "Laptops",
+    "name": "iMac",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
+    "category": "Computers",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "24-inch 4.5K Retina display² Two Thunderbolt / USB 4 ports Two USB 3 ports Gigabit Ethernet Magic Keyboard with Touch ID",
-    
+    "brand": "Apple",
+    "description": "24-inch 4.5K Retina display² Two Thunderbolt / USB 4 ports Two USB 3 ports Gigabit Ethernet Magic Keyboard with Touch ID",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3714,22 +3250,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Studio Display",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/studio-display-digitalmat-gallery-1-202203?wid=728&hei=666&fmt=png-alpha&.v=1645207692041",
-    "productCategory": "Laptops",
+    "name": "Studio Display",
+    "image": "https://www.galaxus.ch/im/Files/7/1/3/3/3/3/2/9/Studio_Display_PDP_Image_Position-1__WWEN.jpg?impolicy=ProductTileImage&resizeWidth=1296&resizeHeight=972&cropWidth=1296&cropHeight=972&resizeType=downsize&quality=high",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
-    
+    "brand": "Apple",
+    "description": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3750,22 +3284,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Pro Display XDR",
-    "productImage": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/pro-display-og-image?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1573689238241",
-    "productCategory": "Laptops",
+    "name": "Pro Display XDR",
+    "image": "https://images.macrumors.com/t/EqSO2QszVc3NBY4CvB9XuJz7CAo=/1600x/article-new/2013/10/apple_pro_display_xdr_roundup_header.png",
+    "category": "Computers",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
-    
+    "brand": "Apple",
+    "description": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3786,22 +3318,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "iMac",
-    "productImage": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
-    "productCategory": "Laptops",
+    "name": "iMac",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-imac-24-202310?wid=1200&hei=1000&fmt=jpeg&qlt=90&.v=1697229623322",
+    "category": "Laptops",
     "price": 2399.99,
-    "brandName": "Apple",
-    "Productdescription": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
-    
+    "brand": "Apple",
+    "description": "Das MacBook Pro 16 ist das ultimative Notebook für Profis und Power-User. Mit einem atemberaubenden 16-Zoll-Retina-Display, einem leistungsstarken Intel Core i9 Prozessor und einer dedizierten Grafikkarte bietet es unübertroffene Leistung und Grafikqualität. Mit seinem schlanken Design und der branchenführenden Touch Bar ist das MacBook Pro 16 das ideale Werkzeug für kreative Arbeit, Produktivität und Entertainment.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3822,22 +3352,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "ThinkPad X1 Carbon",
-    "productImage": "https://example.com/thinkpad_x1_carbon.jpg",
-    "productCategory": "Laptops",
+    "name": "ThinkPad X1 Carbon",
+    "image": "https://example.com/thinkpad_x1_carbon.jpg",
+    "category": "Laptops",
     "price": 1599.99,
-    "brandName": "Lenovo",
-    "Productdescription": "Das ThinkPad X1 Carbon ist ein erstklassiges Business-Notebook, das Leistung, Mobilität und Sicherheit vereint. Mit einem schlanken und leichten Design, einem leistungsstarken Intel Core i7 Prozessor und einer langlebigen Akkulaufzeit ist es ideal für professionelle Anwender unterwegs. Das ThinkPad X1 Carbon bietet außerdem erstklassige Sicherheitsfunktionen wie Gesichtserkennung und Fingerabdruckleser für zusätzlichen Schutz Ihrer Daten.",
-    
+    "brand": "Lenovo",
+    "description": "Das ThinkPad X1 Carbon ist ein erstklassiges Business-Notebook, das Leistung, Mobilität und Sicherheit vereint. Mit einem schlanken und leichten Design, einem leistungsstarken Intel Core i7 Prozessor und einer langlebigen Akkulaufzeit ist es ideal für professionelle Anwender unterwegs. Das ThinkPad X1 Carbon bietet außerdem erstklassige Sicherheitsfunktionen wie Gesichtserkennung und Fingerabdruckleser für zusätzlichen Schutz Ihrer Daten.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3858,94 +3386,20 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Dell XPS 15",
-    "productImage": "https://example.com/dell_xps_15.jpg",
-    "productCategory": "Laptops",
+    "name": "Dell XPS 15",
+    "image": "https://example.com/dell_xps_15.jpg",
+    "category": "Laptops",
     "price": 1999.99,
-    "brandName": "Dell",
-    "Productdescription": "Das Dell XPS 15 ist ein leistungsstarkes und elegantes Notebook, das für anspruchsvolle Anwendungen konzipiert ist. Mit einem beeindruckenden InfinityEdge-Display, einem Intel Core i9 Prozessor und einer dedizierten NVIDIA Grafikkarte bietet es erstklassige Leistung für Kreativität, Produktivität und Unterhaltung. Das XPS 15 verfügt außerdem über innovative Funktionen wie ein hochauflösendes Touchscreen-Display und eine präzise Tastatur für ein herausragendes Benutzererlebnis.",
-    
-  "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-  {
-    "productName": "iMac 27",
-    "productImage": "https://example.com/imac_27.jpg",
-    "productCategory": "Desktops",
-    "price": 2299.99,
-    "brandName": "Apple",
-    "Productdescription": "Der iMac 27 ist ein leistungsstarker All-in-One-Computer, der Geschwindigkeit, Leistung und Eleganz vereint. Mit einem beeindruckenden 27-Zoll-Retina-5K-Display, einem Intel Core i9 Prozessor und einer dedizierten AMD Radeon Pro Grafikkarte bietet er eine erstklassige Leistung für anspruchsvolle Aufgaben wie Video- und Fotobearbeitung, Spiele und mehr. Der iMac 27 ist auch mit innovativen Funktionen wie FaceTime HD-Kamera, Stereolautsprechern und Thunderbolt 3 Anschlüssen ausgestattet.",
-    
-  "comments": [
-      {
-        "text": "aslkdğaplds\n",
-        "user": "Emir",
-        "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
-      },
-      {
-        "text": "güzel",
-        "user": "Emir",
-        "createdAt": "2023-05-23T18:26:14.768Z",
-        "rating": 4
-      },
-      {
-        "text": "hui\n",
-        "user": "",
-        "createdAt": "2023-09-09T14:06:09.014Z",
-        "rating": 4.2
-      },
-      {
-        "text": "hello",
-        "user": "admin123456",
-        "createdAt": "2023-11-27T14:25:26.777Z",
-        "rating": 4.4
-      }
-    ]
-
-},
-  {
-    "productName": "Lenovo ThinkPad X1 Yoga",
-    "productImage": "https://example.com/thinkpad_x1_yoga.jpg",
-    "productCategory": "Laptops",
-    "price": 1799.99,
-    "brandName": "Lenovo",
-    "Productdescription": "Das Lenovo ThinkPad X1 Yoga ist ein vielseitiges 2-in-1-Notebook, das Mobilität und Leistung in einem eleganten Design vereint. Mit einem drehbaren 14-Zoll-Touchscreen-Display, einem Intel Core i7 Prozessor und einer langlebigen Akkulaufzeit ist es ideal für professionelle Anwender, die unterwegs produktiv sein müssen. Das ThinkPad X1 Yoga bietet außerdem erstklassige Sicherheitsfunktionen wie eine integrierte Webcam-Abdeckung und einen Fingerabdruckleser für zusätzlichen Schutz Ihrer Privatsphäre.",
-    
+    "brand": "Dell",
+    "description": "Das Dell XPS 15 ist ein leistungsstarkes und elegantes Notebook, das für anspruchsvolle Anwendungen konzipiert ist. Mit einem beeindruckenden InfinityEdge-Display, einem Intel Core i9 Prozessor und einer dedizierten NVIDIA Grafikkarte bietet es erstklassige Leistung für Kreativität, Produktivität und Unterhaltung. Das XPS 15 verfügt außerdem über innovative Funktionen wie ein hochauflösendes Touchscreen-Display und eine präzise Tastatur für ein herausragendes Benutzererlebnis.",
     "comments": [
       {
         "text": "aslkdğaplds\n",
         "user": "Emir",
         "createdAt": "2023-05-23T12:27:02.882Z",
-        "rating" : 5
+        "rating": 5
       },
       {
         "text": "güzel",
@@ -3966,15 +3420,107 @@
         "rating": 4.4
       }
     ]
-
-},
+  },
   {
-    "productName": "Dell Precision 7550",
-    "productImage": "https://example.com/dell_precision_7550.jpg",
-    "productCategory": "Laptops",
+    "name": "iMac 27",
+    "image": "https://example.com/imac_27.jpg",
+    "category": "Desktops",
+    "price": 2299.99,
+    "brand": "Apple",
+    "description": "Der iMac 27 ist ein leistungsstarker All-in-One-Computer, der Geschwindigkeit, Leistung und Eleganz vereint. Mit einem beeindruckenden 27-Zoll-Retina-5K-Display, einem Intel Core i9 Prozessor und einer dedizierten AMD Radeon Pro Grafikkarte bietet er eine erstklassige Leistung für anspruchsvolle Aufgaben wie Video- und Fotobearbeitung, Spiele und mehr. Der iMac 27 ist auch mit innovativen Funktionen wie FaceTime HD-Kamera, Stereolautsprechern und Thunderbolt 3 Anschlüssen ausgestattet.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Yoga",
+    "image": "https://example.com/thinkpad_x1_yoga.jpg",
+    "category": "Laptops",
+    "price": 1799.99,
+    "brand": "Lenovo",
+    "description": "Das Lenovo ThinkPad X1 Yoga ist ein vielseitiges 2-in-1-Notebook, das Mobilität und Leistung in einem eleganten Design vereint. Mit einem drehbaren 14-Zoll-Touchscreen-Display, einem Intel Core i7 Prozessor und einer langlebigen Akkulaufzeit ist es ideal für professionelle Anwender, die unterwegs produktiv sein müssen. Das ThinkPad X1 Yoga bietet außerdem erstklassige Sicherheitsfunktionen wie eine integrierte Webcam-Abdeckung und einen Fingerabdruckleser für zusätzlichen Schutz Ihrer Privatsphäre.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "name": "Dell Precision 7550",
+    "image": "https://example.com/dell_precision_7550.jpg",
+    "category": "Laptops",
     "price": 2799.99,
-    "brandName": "Dell",
-    "Productdescription": "Der Dell Precision 7550 ist ein leistungsstarkes mobiles Workstation-Notebook, das für anspruchsvolle professionelle Anwendungen konzipiert ist. Mit einem beeindruckenden 15,6-Zoll-UHD-Display, einem Intel Core i9 Prozessor und einer dedizierten NVIDIA Quadro Grafikkarte bietet es erstklassige Leistung für CAD, 3D-Modellierung, Videobearbeitung und mehr. Der Precision 7550 verfügt außerdem über innovative Funktionen wie ein präzises Touchpad, eine Tastatur mit Hintergrundbeleuchtung und eine Vielzahl von Anschlüssen für maximale Konnektivität.",
-    
+    "brand": "Dell",
+    "description": "Der Dell Precision 7550 ist ein leistungsstarkes mobiles Workstation-Notebook, das für anspruchsvolle professionelle Anwendungen konzipiert ist. Mit einem beeindruckenden 15,6-Zoll-UHD-Display, einem Intel Core i9 Prozessor und einer dedizierten NVIDIA Quadro Grafikkarte bietet es erstklassige Leistung für CAD, 3D-Modellierung, Videobearbeitung und mehr. Der Precision 7550 verfügt außerdem über innovative Funktionen wie ein präzises Touchpad, eine Tastatur mit Hintergrundbeleuchtung und eine Vielzahl von Anschlüssen für maximale Konnektivität.",
+    "comments": [
+      {
+        "text": "aslkdğaplds\n",
+        "user": "Emir",
+        "createdAt": "2023-05-23T12:27:02.882Z",
+        "rating": 5
+      },
+      {
+        "text": "güzel",
+        "user": "Emir",
+        "createdAt": "2023-05-23T18:26:14.768Z",
+        "rating": 4
+      },
+      {
+        "text": "hui\n",
+        "user": "",
+        "createdAt": "2023-09-09T14:06:09.014Z",
+        "rating": 4.2
+      },
+      {
+        "text": "hello",
+        "user": "admin123456",
+        "createdAt": "2023-11-27T14:25:26.777Z",
+        "rating": 4.4
+      }
+    ]
   }
 ]
