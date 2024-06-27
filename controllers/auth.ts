@@ -18,12 +18,12 @@ export async function login(req: Request, res: Response) {
     }
 
     const token = jwt.sign(
-      { id: user._id, username: user.username },
+      { id: user._id, username: user.username, role: user.role },
       process.env.SECRET_KEY as string,
       { expiresIn: "15m" },
     );
 
-    res.status(200).json({ message: token, username });
+    res.status(200).json({ token, username: user.username, role: user.role });
   } catch (error: any) {
     res.status(500).json({ error: error.message });
   }
@@ -54,7 +54,7 @@ export async function register(req: Request, res: Response) {
     await user.save();
 
     const token = jwt.sign(
-      { id: user._id, username: user.username },
+      { id: user._id, username: user.username, role: user.role },
       process.env.SECRET_KEY as string,
       { expiresIn: "15m" },
     );
