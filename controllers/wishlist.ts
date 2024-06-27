@@ -1,7 +1,7 @@
-import type { Request, Response } from "express";
-import { Types } from "mongoose";
-import { Product } from "../models/product";
-import { User } from "../models/user";
+import type { Request, Response } from 'express';
+import { Types } from 'mongoose';
+import { Product } from '../models/product';
+import { User } from '../models/user';
 
 interface AuthenticatedRequest extends Request {
   user?: { id: string };
@@ -10,11 +10,21 @@ interface AuthenticatedRequest extends Request {
 export async function getWishlist(req: AuthenticatedRequest, res: Response) {
   try {
     const userId = req.user!.id;
-    const user = await User.findById(userId).populate("wishlist.productId");
+    const user = await User.findById(userId).populate({
+      path: 'wishlist.productId',
+      model: 'Product',
+    });
+
     if (!user) {
-      return res.status(404).json({ error: "User not found" });
+      return res.status(404).json({ error: 'User not found' });
     }
-    res.json(user.wishlist);
+
+    const populatedWishlist = user.wishlist.map((item) => ({
+      ...item.toObject(),
+      product: item.productId,
+    }));
+
+    res.json(populatedWishlist);
   } catch (error: any) {
     res.status(500).json({ error: error.message });
   }
@@ -27,12 +37,12 @@ export async function addToWishlist(req: AuthenticatedRequest, res: Response) {
 
     const user = await User.findById(userId);
     if (!user) {
-      return res.status(404).json({ error: "User not found" });
+      return res.status(404).json({ error: 'User not found' });
     }
 
     const product = await Product.findById(productId);
     if (!product) {
-      return res.status(404).json({ error: "Product not found" });
+      return res.status(404).json({ error: 'Product not found' });
     }
 
     const wishlistItem = {
@@ -50,7 +60,7 @@ export async function addToWishlist(req: AuthenticatedRequest, res: Response) {
 
 export async function removeFromWishlist(
   req: AuthenticatedRequest,
-  res: Response,
+  res: Response
 ) {
   try {
     const userId = req.user!.id;
@@ -59,11 +69,11 @@ export async function removeFromWishlist(
     const user = await User.findByIdAndUpdate(
       userId,
       { $pull: { wishlist: { productId: new Types.ObjectId(productId) } } },
-      { new: true },
-    ).populate("wishlist.productId");
+      { new: true }
+    ).populate('wishlist.productId');
 
     if (!user) {
-      return res.status(404).json({ error: "User not found" });
+      return res.status(404).json({ error: 'User not found' });
     }
 
     res.json(user.wishlist);
@@ -79,11 +89,11 @@ export async function clearWishlist(req: AuthenticatedRequest, res: Response) {
     const user = await User.findByIdAndUpdate(
       userId,
       { $set: { wishlist: [] } },
-      { new: true },
+      { new: true }
     );
 
     if (!user) {
-      return res.status(404).json({ error: "User not found" });
+      return res.status(404).json({ error: 'User not found' });
     }
 
     res.json(user.wishlist);
