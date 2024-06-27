@@ -771,7 +771,7 @@
   },
   {
     "name": "Apple Watch Series 7",
-    "image": "https://example.com/apple-watch-series-7.jpg",
+    "image": "https://www.galaxus.ch/im/Files/4/9/4/3/2/5/8/6/Apple_Watch_Series_7_LTE_45mm_Green_Aluminum_Clover_Sport_Band_PDP_Image_Position-1_EAEN.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartwatches",
     "price": 399.99,
     "brand": "Apple",
@@ -805,7 +805,7 @@
   },
   {
     "name": "Apple Watch Series 8",
-    "image": "https://example.com/apple-watch-series-8.jpg",
+    "image": "https://www.digitec.ch/im/Files/6/8/2/3/6/9/0/9/Apple_Watch_Series_8_LTE_45mm_Graphite_Stainless_Steel_Graphite_Milanese_Loop_PDP_Image_Position-1__WWEN.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartwatches",
     "price": 449.99,
     "brand": "Apple",
@@ -873,7 +873,7 @@
   },
   {
     "name": "Mi Watch 5",
-    "image": "https://example.com/mi-watch-5.jpg",
+    "image": "https://www.digitec.ch/im/productimages/8/5/6/0/2/3/6/4/9/9/8/8/4/7/4/5/3/0/7/59bf90e3-4add-44b2-9b55-3384ceb14f87.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartwatches",
     "price": 199.99,
     "brand": "Xiaomi",
@@ -1144,8 +1144,8 @@
     ]
   },
   {
-    "name": "Mi 12",
-    "image": "https://example.com/mi-12.jpg",
+    "name": "Xiaomi 12",
+    "image": "https://www.digitec.ch/im/productimages/8/4/1/3/8/5/8/6/3/8/8/6/6/9/5/9/9/4/7/1c58be74-d27e-4a5c-9ce3-bdc62bc04cef_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartphones",
     "price": 899.99,
     "brand": "Xiaomi",
@@ -1178,8 +1178,8 @@
     ]
   },
   {
-    "name": "iPad Air 5",
-    "image": "https://example.com/ipad-air-5.jpg",
+    "name": "iPad Air",
+    "image": "https://www.digitec.ch/im/Files/5/9/4/0/7/8/9/7/iPad_Air_Wi-Fi_Purple_PDP_Image_Position-1b__WWEN.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Tablets",
     "price": 699.99,
     "brand": "Apple",
@@ -1213,7 +1213,7 @@
   },
   {
     "name": "Mi Laptop Pro",
-    "image": "https://example.com/mi-laptop-pro.jpg",
+    "image": "https://www.giztop.com/media/catalog/product/cache/dc206057cdd42d7e34b9d36e347785ca/x/i/xiaomi_mi_notebook_pro_15_2020_2.jpg",
     "category": "Laptops",
     "price": 1299.99,
     "brand": "Xiaomi",
@@ -1247,7 +1247,7 @@
   },
   {
     "name": "Mi Watch Lite",
-    "image": "https://example.com/mi-watch-lite.jpg",
+    "image": "https://www.digitec.ch/im/productimages/2/2/9/3/9/1/5/8/5/4/6/5/5/1/9/4/2/4/1/58bb51a7-2977-4ed0-aa91-416b1cbe4db3.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartwatches",
     "price": 79.99,
     "brand": "Xiaomi",
@@ -2403,7 +2403,7 @@
   },
   {
     "name": "Samsung Galaxy S22 Ultra",
-    "image": "https://example.com/samsung-galaxy-s22-ultra.jpg",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTMhM__UfVhtQCYeH1yEt8OlDadlhrC-hVNjycrjehfKN9leDXNovZCHGvovtefilFIRmYVCvYpbdyNuaNN7tBsZ1vIFgbHnW32zV_k8M4&usqp=CAc",
     "category": "Smartphones",
     "price": 1299.99,
     "brand": "Samsung",
@@ -2607,7 +2607,7 @@
   },
   {
     "name": "Sony Xperia Pro III",
-    "image": "https://example.com/sony-xperia-pro-iii.jpg",
+    "image": "https://www.digitec.ch/im/Files/4/5/7/2/6/9/2/6/1M3_group_black_UI.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartphones",
     "price": 1499.99,
     "brand": "Sony",
@@ -2641,7 +2641,7 @@
   },
   {
     "name": "Dell XPS 17",
-    "image": "https://example.com/dell-xps-17.jpg",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-17-9730/media-gallery/notebook-xps-17-9730-t-gray-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=659&qlt=100,1&resMode=sharp2&size=659,402&chrss=full",
     "category": "Laptops",
     "price": 2499.99,
     "brand": "Dell",
@@ -2675,7 +2675,7 @@
   },
   {
     "name": "LG UltraFine 5K Display",
-    "image": "https://example.com/lg-ultrafine-5k-display.jpg",
+    "image": "https://www.lg.com/content/dam/channel/wcms/de/images/monitore/27md5kl-b_aeu_eedg_de_c/450.jpg",
     "category": "Monitors",
     "price": 1299.99,
     "brand": "LG",
@@ -2709,7 +2709,7 @@
   },
   {
     "name": "Huawei MateBook X Pro",
-    "image": "https://example.com/huawei-matebook-x-pro.jpg",
+    "image": "https://www.digitec.ch/im/productimages/7/1/3/3/8/1/2/5/8/5/6/4/8/0/2/5/5/0/1/e7889fae-c26b-42a3-ad99-86e8c2dc2d6a_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1499.99,
     "brand": "Huawei",
@@ -2743,7 +2743,7 @@
   },
   {
     "name": "OnePlus 10 Pro",
-    "image": "https://example.com/oneplus-10-pro.jpg",
+    "image": "https://www.digitec.ch/im/productimages/7/7/2/2/2/4/5/9/3/1/3/5/7/6/2/2/9/6/8/9c76c37a-d847-4f6f-85c3-5915c1792a71.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartphones",
     "price": 999.99,
     "brand": "OnePlus",
@@ -2777,7 +2777,7 @@
   },
   {
     "name": "Microsoft Surface Laptop Studio",
-    "image": "https://example.com/microsoft-surface-laptop-studio.jpg",
+    "image": "https://www.digitec.ch/im/productimages/7/1/2/2/9/6/4/0/7/2/8/9/5/5/2/6/1/1/0/599625c0-1950-42a2-82c8-90316c1828cd.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1799.99,
     "brand": "Microsoft",
@@ -2811,7 +2811,7 @@
   },
   {
     "name": "Lenovo ThinkPad X1 Carbon Gen 9",
-    "image": "https://example.com/lenovo-thinkpad-x1-carbon-gen-9.jpg",
+    "image": "https://p3-ofp.static.pub//fes/cms/2024/02/05/0ubgkn5y3eg4o2njxw796p64oybrw3166073.png",
     "category": "Laptops",
     "price": 1699.99,
     "brand": "Lenovo",
@@ -2845,7 +2845,7 @@
   },
   {
     "name": "Google Pixel 6 Pro",
-    "image": "https://example.com/google-pixel-6-pro.jpg",
+    "image": "https://www.digitec.ch/im/Files/5/3/0/6/2/2/6/8/315187.jpg",
     "category": "Smartphones",
     "price": 899.99,
     "brand": "Google",
@@ -2879,7 +2879,7 @@
   },
   {
     "name": "ASUS ROG Zephyrus G14",
-    "image": "https://example.com/asus-rog-zephyrus-g14.jpg",
+    "image": "https://www.digitec.ch/im/productimages/8/1/7/6/5/1/9/6/9/9/1/0/4/9/9/4/0/2/6/9178114b-f4bb-417e-a1a0-8ab823cca47f_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1499.99,
     "brand": "ASUS",
@@ -2913,7 +2913,7 @@
   },
   {
     "name": "Microsoft Surface Laptop 5",
-    "image": "https://example.com/microsoft-surface-laptop-5.jpg",
+    "image": "https://www.digitec.ch/im/productimages/6/4/9/3/9/3/4/3/8/1/6/7/9/6/3/4/3/5/4/8fe176fa-5d79-4425-953b-91e3e472ff05_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1499.99,
     "brand": "Microsoft",
@@ -2947,7 +2947,7 @@
   },
   {
     "name": "Lenovo ThinkPad X1 Carbon",
-    "image": "https://example.com/lenovo-thinkpad-x1-carbon.jpg",
+    "image": "https://www.digitec.ch/im/productimages/2/6/9/8/8/9/8/4/1/0/9/3/0/0/5/3/2/0/7/442fd283-c4f0-48e1-8b63-01439da66602_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1799.99,
     "brand": "Lenovo",
@@ -2981,7 +2981,7 @@
   },
   {
     "name": "Google Pixel 7 Pro",
-    "image": "https://example.com/google-pixel-7-pro.jpg",
+    "image": "https://www.digitec.ch/im/productimages/1/4/8/4/7/1/7/5/4/1/5/2/7/1/5/7/7/3/1/ea4dd1d1-522b-4318-9471-1f0b46c87697_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Smartphones",
     "price": 999.99,
     "brand": "Google",
@@ -3015,7 +3015,7 @@
   },
   {
     "name": "Asus ZenWatch 4",
-    "image": "https://example.com/asus-zenwatch-4.jpg",
+    "image": "https://cdn.idealo.com/folder/Product/4976/6/4976622/s1_produktbild_gross/asus-zenwatch-2-4-14cm-wi501q-grau-metallarmband.jpg",
     "category": "Smartwatches",
     "price": 299.99,
     "brand": "Asus",
@@ -3049,10 +3049,10 @@
   },
   {
     "name": "HP Spectre x360",
-    "image": "https://example.com/hp-spectre-x360.jpg",
+    "image": "https://www.digitec.ch/im/productimages/7/5/8/0/7/7/7/8/3/4/7/1/1/3/8/0/6/0/6/ff2b4af1-d1ff-4387-b8fa-9b8ed058a572.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1899.99,
-    "brand": "HP",
+    "brand": "Other",
     "description": "The HP Spectre x360 is a premium 2-in-1 laptop from HP. It features a stunning 4K OLED display, a powerful Intel Core processor, and a versatile design. With its long battery life and convertible form factor, the Spectre x360 is perfect for professionals and creative users.",
     "comments": [
       {
@@ -3355,7 +3355,7 @@
   },
   {
     "name": "ThinkPad X1 Carbon",
-    "image": "https://example.com/thinkpad_x1_carbon.jpg",
+    "image": "https://www.digitec.ch/im/productimages/4/4/6/3/4/2/4/3/3/0/1/1/2/4/2/0/3/1/1/61c1776c-7b22-40ea-ac17-51ba67bb1200_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1599.99,
     "brand": "Lenovo",
@@ -3389,7 +3389,7 @@
   },
   {
     "name": "Dell XPS 15",
-    "image": "https://example.com/dell_xps_15.jpg",
+    "image": "https://assets.brack.ch/images2/0/2/5/227222520/227222520_xxl.jpg",
     "category": "Laptops",
     "price": 1999.99,
     "brand": "Dell",
@@ -3422,8 +3422,8 @@
     ]
   },
   {
-    "name": "iMac 27",
-    "image": "https://example.com/imac_27.jpg",
+    "name": "iMac 24 ",
+    "image": "https://assets.brack.ch/images2/1/2/0/311943021/311943021_xxl.jpg",
     "category": "Desktops",
     "price": 2299.99,
     "brand": "Apple",
@@ -3457,7 +3457,7 @@
   },
   {
     "name": "Lenovo ThinkPad X1 Yoga",
-    "image": "https://example.com/thinkpad_x1_yoga.jpg",
+    "image": "https://www.digitec.ch/im/productimages/1/2/6/8/1/3/4/3/0/4/2/9/5/3/3/3/0/9/6/c51592a2-c2e4-4520-962a-51b8f49ba589_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 1799.99,
     "brand": "Lenovo",
@@ -3491,7 +3491,7 @@
   },
   {
     "name": "Dell Precision 7550",
-    "image": "https://example.com/dell_precision_7550.jpg",
+    "image": "https://www.digitec.ch/im/productimages/8/3/8/2/7/2/4/1/1/0/6/2/0/1/6/0/6/5/0/cc195d29-73ce-415e-9ab3-5d914d60ee8d_cropped.jpg?impolicy=ProductTileImage&resizeWidth=1000&resizeHeight=750&cropWidth=1000&cropHeight=750&resizeType=downsize&quality=high",
     "category": "Laptops",
     "price": 2799.99,
     "brand": "Dell",
